@@ -1,18 +1,18 @@
 # ICONex: Icon
 
-## Official Website
+## 🚀 Official Website
 
-[https://icon.foundation/](https://icon.foundation/)
+{% embed url="https://icon.foundation/" %}
 
-## Getting started
+## 🧙♀ Getting started
 
 {% embed url="https://icon.foundation/contents/products/iconex?lang=en" %}
 
-## FAQ
+## ⁉ FAQ
 
-[https://icon.foundation/contents/support/faq](https://icon.foundation/contents/support/faq)
+{% embed url="https://icon.foundation/contents/support/faq" %}
 
-## Supported Assets
+## 💰 Supported Assets
 
 * ICON \(ICX\)
 * Ethereum \(ETH\)

@@ -1,10 +1,14 @@
 # Guide: How to stake EOS
 
-## 🏁 Prerequisites
+## 🏁 1. Prerequisites
 
-* EOS tokens stored on a local wallet. You control the seed/private keys. Remember, it's best practice to always withdraw coins from an Exchange.
+EOS tokens stored on a local wallet. You control the seed/private keys. 
 
-## 🎊 Delegate your stake
+{% hint style="warning" %}
+Remember, it's best practice to always withdraw coins from an Exchange.
+{% endhint %}
+
+## 🎊 2. Delegate your stake
 
 1. **Open** in your web browser: [Bloks.io](https://bloks.io/account/eosio)
 
@@ -41,7 +45,7 @@ Maximize your EOS token potential by finding the right proxy for you. [Genpool.i
 
 10. 🎉 Congratulations. Rewards will start showing up every day. Check your rewards on the **Account tab**.
 
-## 🔎 Monitoring your rewards proxy
+## 🔎 3. Monitoring your rewards proxy
 
 To learn more about your proxy, use these amazing community created tools.
 

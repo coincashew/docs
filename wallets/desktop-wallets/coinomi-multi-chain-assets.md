@@ -20,5 +20,5 @@ description: >-
 
 ## 💰 Supported Assets
 
-[https://www.coinomi.com/en/assets](https://www.coinomi.com/en/assets/)
+* [https://www.coinomi.com/en/assets/](https://www.coinomi.com/en/assets/)
 

@@ -1,16 +1,18 @@
 # Guide: How to buy HEX
 
-## 👜 1\) Install MetaMask
+## 👜 1. Install MetaMask
 
 Refer to the following link if you need to setup MetaMask.
 
 {% page-ref page="../wallets/browser-wallets/metamask-ethereum.md" %}
 
-## 💰 2\) Fund your account with Ether
+## 💰 2. Fund your account with Ether
 
-By this point, you'll need some ETH in your MetaMask wallet. Refer
+By this point, you'll need some ETH in your MetaMask wallet. Refer to the following if you need help:
 
-## 💱 3\) Swap Ether for Hex at Uniswap Exchange
+{% page-ref page="../exchanges/guide-where-to-get-crypto.md" %}
+
+## 💱 3. Swap Ether for Hex at Uniswap Exchange
 
 1. **Open** in your browser, [Hexdex.win](https://hexdex.win/swap)
 
@@ -24,7 +26,7 @@ By this point, you'll need some ETH in your MetaMask wallet. Refer
 
 5. **Click "**Connect" to allow the Hex Exchange to connect to MetaMask
 
-![Allow Hex Exchange to &quot;Connect&quot; to MetaMask](../.gitbook/assets/hex2.PNG)
+![](../.gitbook/assets/hex2.PNG)
 
 6. Time to decide how many HEX you want or how much ETH you want to spend.
 

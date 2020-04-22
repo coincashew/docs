@@ -8,10 +8,27 @@ description: >-
 
 ## 🧬 Tezos Fundamentals
 
+{% embed url="https://learn.tqtezos.com/files/whitepaper.html" %}
+
+{% embed url="https://learn.tqtezos.com/" %}
+
 ## 🥠 Baking
 
-* \*\*\*\*[**Benefits and Risks of Being a Baker**](https://medium.com/@obsidian.systems/benefits-and-risks-of-home-baking-a631c9ca745)\*\*\*\*
-* \*\*\*\*[**Setting Up a Secure Baker**](https://medium.com/@obsidian.systems/setting-up-a-secure-baker-27bb12363679)\*\*\*\*
+{% embed url="https://medium.com/@obsidian.systems/benefits-and-risks-of-home-baking-a631c9ca745" %}
+
+{% embed url="https://medium.com/@obsidian.systems/setting-up-a-secure-baker-27bb12363679" %}
 
 ## 👩💻 Developers
+
+{% embed url="https://developers.tezos.com/" %}
+
+{% embed url="http://doc.tzalpha.net/" %}
+
+{% embed url="https://training.nomadic-labs.com/" %}
+
+{% embed url="https://handbook.cryptonomic.tech/" %}
+
+{% embed url="https://www.trufflesuite.com/docs/tezos/truffle/quickstart" %}
+
+\*\*\*\*
 

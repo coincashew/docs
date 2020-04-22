@@ -36,6 +36,10 @@
 
 * [Guide: How to stake EDG](https://docs.edgewa.re/understanding-edgeware/staking/nominating/nominate-edg-to-a-validator)
 
+## Komodo
+
+* [Guide: How to earn KMD rewards](komodo/guide-how-to-earn-kmd-rewards.md)
+
 ## Exchanges
 
 * [Guide: Where to get Crypto](exchanges/guide-where-to-get-crypto.md)
@@ -43,14 +47,28 @@
 ## Wallets
 
 * [Mobile Wallets](wallets/mobile-wallets/README.md)
+  * [TrustWallet: Multi-currency](wallets/mobile-wallets/trustwallet-multi-currency.md)
   * [Coinomi: Multi-chain assets](wallets/mobile-wallets/coinomi-multi-chain-assets.md)
   * [Exodus: Multi-chain assets](wallets/mobile-wallets/exodus-multi-chain-assets.md)
+  * [Status: Ethereum](wallets/mobile-wallets/status-ethereum.md)
+  * [Enjin: Multi-currency](wallets/mobile-wallets/enjin-multi-currency.md)
+  * [Pillar: Ethereum, BTC](wallets/mobile-wallets/pillar-ethereum-btc.md)
 * [Desktop Wallets](wallets/desktop-wallets/README.md)
+  * [Coinomi: Multi-chain assets](wallets/desktop-wallets/coinomi-multi-chain-assets.md)
+  * [Exodus: Multi-chain assets](wallets/desktop-wallets/exodus-multi-chain-assets.md)
+  * [Atomic: Multi-currency](wallets/desktop-wallets/atomic-multi-currency.md)
+  * [Galleon: Tezos](wallets/desktop-wallets/galleon-tezos.md)
+  * [MyCrypto: Ethereum](wallets/desktop-wallets/mycrypto-ethereum.md)
   * [Scatter: EOS](wallets/desktop-wallets/scatter-eos.md)
+  * [O3: NEO, ONT](wallets/desktop-wallets/o3-neo-ont.md)
 * [Hardware Wallets](wallets/hardware-wallets/README.md)
-  * [Guide: How to setup Trezor Model T](https://wiki.trezor.io/Getting_started_in_5_steps)
-  * [Guide: How to setup Ledger Nano X/S](https://www.ledger.com/start/)
-  * [Where to Buy](wallets/hardware-wallets/where-to-buy.md)
+  * [Ledger Live: Ledger Nano Wallet](wallets/hardware-wallets/ledger-live-ledger-nano-wallet/README.md)
+    * [Guide: How to setup Ledger Nano X/S](https://www.ledger.com/start/)
+  * [Trezor.io Wallet](wallets/hardware-wallets/trezor.io-wallet/README.md)
+    * [Guide: How to setup Trezor Model T](https://wiki.trezor.io/Getting_started_in_5_steps)
+  * [KeepKey Wallet](wallets/hardware-wallets/keepkey-wallet/README.md)
+    * [Guide: How to setup KeepKey Hardware Wallet](https://keepkey.shapeshift.com/get-started/)
+  * [Where to Buy and Overall Review](wallets/hardware-wallets/where-to-buy.md)
 * [Browser Wallets](wallets/browser-wallets/README.md)
   * [MetaMask: Ethereum](wallets/browser-wallets/metamask-ethereum.md)
   * [Yoroi-wallet: Cardano](wallets/browser-wallets/yoroi-wallet-cardano.md)
@@ -89,10 +107,6 @@
 ## THETA
 
 * [Guide: How to stake THETA](theta/guide-how-to-stake-theta.md)
-
-## Komodo
-
-* [Guide: How to stake KMD](komodo/guide-how-to-stake-kmd.md)
 
 ## Grin
 

@@ -6,19 +6,19 @@ description: >-
 
 # Scatter: EOS
 
-## Official Website
+## 🚀 Official Website
 
-[https://get-scatter.com/](https://get-scatter.com/)
+{% embed url="https://get-scatter.com/" %}
 
-## Getting started
+## 🧙♀ Getting started
 
 {% embed url="https://support.get-scatter.com/collection/14-getting-started" %}
 
-## FAQ
+## ⁉ FAQ
 
-[https://support.get-scatter.com/](https://support.get-scatter.com/)
+{% embed url="https://support.get-scatter.com/" %}
 
-## Supported Assets
+## 💰 Supported Assets
 
 * EOS
 
