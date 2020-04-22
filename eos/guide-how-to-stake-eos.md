@@ -2,7 +2,7 @@
 
 ## 🏁 Prerequisites
 
-* Coins already stored on a local wallet. You control the seed/private keys. Best practice to always withdraw coins from an Exchange.
+* EOS tokens stored on a local wallet. You control the seed/private keys. Remember, it's best practice to always withdraw coins from an Exchange.
 
 ## 🎊 Delegate your stake
 

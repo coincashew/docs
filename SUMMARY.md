@@ -30,20 +30,35 @@
 ## Cardano
 
 * [Guide: How to stake ADA](cardano/guide-how-to-stake-ada.md)
-* [Guide: How to setup a Stakepool](cardano/untitled.md)
+* [Guide: How to setup a Stakepool](https://guides.poapool.com/)
 
 ## Edgeware
 
 * [Guide: How to stake EDG](https://docs.edgewa.re/understanding-edgeware/staking/nominating/nominate-edg-to-a-validator)
 
-## Hardware Wallets
+## Exchanges
 
-* [Guide: How to setup Ledger Nano X/S](https://www.ledger.com/start/)
-* [Guide: How to setup Trezor Model T](https://wiki.trezor.io/Getting_started_in_5_steps)
-* [Where to Buy](hardware-wallets/where-to-buy.md)
+* [Guide: Where to get Crypto](exchanges/guide-where-to-get-crypto.md)
+
+## Wallets
+
+* [Mobile Wallets](wallets/mobile-wallets/README.md)
+  * [Coinomi: Multi-chain assets](wallets/mobile-wallets/coinomi-multi-chain-assets.md)
+  * [Exodus: Multi-chain assets](wallets/mobile-wallets/exodus-multi-chain-assets.md)
+* [Desktop Wallets](wallets/desktop-wallets/README.md)
+  * [Scatter: EOS](wallets/desktop-wallets/scatter-eos.md)
+* [Hardware Wallets](wallets/hardware-wallets/README.md)
+  * [Guide: How to setup Trezor Model T](https://wiki.trezor.io/Getting_started_in_5_steps)
+  * [Guide: How to setup Ledger Nano X/S](https://www.ledger.com/start/)
+  * [Where to Buy](wallets/hardware-wallets/where-to-buy.md)
+* [Browser Wallets](wallets/browser-wallets/README.md)
+  * [MetaMask: Ethereum](wallets/browser-wallets/metamask-ethereum.md)
+  * [Yoroi-wallet: Cardano](wallets/browser-wallets/yoroi-wallet-cardano.md)
+  * [ICONex: Icon](wallets/browser-wallets/iconex-icon.md)
 
 ## HEX
 
+* [Guide: How to buy HEX](hex/guide-how-to-buy-hex.md)
 * [Guide: How to claim HEX](hex/guide-how-to-claim-hex.md)
 * [Guide: How to stake HEX](hex/guide-how-to-stake-hex.md)
 
