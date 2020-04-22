@@ -23,6 +23,30 @@
 
 * [Guide: How to stake EOS](eos/guide-how-to-stake-eos.md)
 
+## Ethereum
+
+* [Guide: How to setup a ETH 2.0 Node & Validator](https://prylabs.net/participate)
+
+## Cardano
+
+* [Guide: How to stake ADA](cardano/guide-how-to-stake-ada.md)
+* [Guide: How to setup a Stakepool](cardano/untitled.md)
+
+## Edgeware
+
+* [Guide: How to stake EDG](https://docs.edgewa.re/understanding-edgeware/staking/nominating/nominate-edg-to-a-validator)
+
+## Hardware Wallets
+
+* [Guide: How to setup Ledger Nano X/S](https://www.ledger.com/start/)
+* [Guide: How to setup Trezor Model T](https://wiki.trezor.io/Getting_started_in_5_steps)
+* [Where to Buy](hardware-wallets/where-to-buy.md)
+
+## HEX
+
+* [Guide: How to claim HEX](hex/guide-how-to-claim-hex.md)
+* [Guide: How to stake HEX](hex/guide-how-to-stake-hex.md)
+
 ## ICON
 
 * [Guide: How to stake ICX](icon/guide-how-to-stake-icx.md)
@@ -30,19 +54,6 @@
 ## Vechain
 
 * [Guide: How to stake VET](vechain/guide-how-to-stake-vet.md)
-
-## Edgeware
-
-* [Guide: How to stake EDG](https://docs.edgewa.re/understanding-edgeware/staking/nominating/nominate-edg-to-a-validator)
-
-## Cardano
-
-* [Guide: How to stake ADA](cardano/guide-how-to-stake-ada.md)
-* [Guide: How to setup a Stakepool](cardano/untitled.md)
-
-## Ethereum
-
-* [Guide: How to setup a ETH2 Node Validator](ethereum/untitled.md)
 
 ## Bitcoin Cash
 
@@ -55,11 +66,6 @@
 ## NEO
 
 * [Guide: How to stake NEO](neo/guide-how-to-stake-neo.md)
-
-## HEX
-
-* [Guide: How to claim HEX](hex/guide-how-to-claim-hex.md)
-* [Guide: How to stake HEX](hex/guide-how-to-stake-hex.md)
 
 ## Ontology
 

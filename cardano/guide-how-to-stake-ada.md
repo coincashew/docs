@@ -26,6 +26,8 @@ For this example, we will delegate with Yoroi.
 
 {% hint style="info" %}
 Easily find and browse Stake Pools at [PoolTool ](https://pooltool.io/)or [ADApools.org](https://adapools.org/)
+
+Or watch this youtube video on [How to choose a good Cardano stake pool by Kaizen Crypto.](https://www.youtube.com/watch?v=tgxHfQy7CnU)
 {% endhint %}
 
 5. Click **Delegate**

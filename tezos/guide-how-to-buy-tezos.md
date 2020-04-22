@@ -4,7 +4,7 @@ description: So you would like to acquire some tez.
 
 # Guide: How to buy Tezos
 
-## 💱 1\) Pick an Exchanges
+## 💱 1\) Pick a Exchange
 
 | Site | Pairs | Location | KYC Required? |
 | :--- | :--- | :--- | :--- |

@@ -6,10 +6,10 @@
 
 ## 🎊 Delegate your stake
 
-1. **Open** in your web browser [Bloks.io](https://bloks.io/account/eosio)
+1. **Open** in your web browser: [Bloks.io](https://bloks.io/account/eosio)
 
 {% hint style="info" %}
-Bloks.io will be the quickest way to stake and is safe because your coins never leave your 
+Bloks.io will be the quickest way to stake and is safe because your coins never leave your control.
 {% endhint %}
 
 For this example, we will delegate with Ledger Nano S/X.
