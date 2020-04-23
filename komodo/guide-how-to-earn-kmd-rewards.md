@@ -23,7 +23,7 @@ KMD rewards work unlike typical Proof-Of-Stake coins. There is no requirement to
 {% endhint %}
 
 {% hint style="info" %}
-🧙♀ Tip for the technically-inclined: Komodo's reward is a function of an address' nlocktime and UTXO value.
+🧙♀ Tip for the technically-inclined: Komodo's reward is a function of an address **nlocktime** and **UTXO value**.
 {% endhint %}
 
 ## 🙋 4. More information

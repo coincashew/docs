@@ -4,7 +4,11 @@ description: So you would like to acquire some tez.
 
 # Guide: How to buy Tezos
 
-## 💱 1\) Pick a Exchange
+## 🔥 1. Get some money into crypto
+
+{% page-ref page="../exchanges/guide-where-to-get-crypto.md" %}
+
+## 💱 2. Convert on Exchange
 
 | Site | Pairs | Location | KYC Required? |
 | :--- | :--- | :--- | :--- |

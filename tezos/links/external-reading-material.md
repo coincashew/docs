@@ -6,13 +6,23 @@ description: >-
 
 # External Reading Material
 
-## 🧬 Tezos Fundamentals
+## 📜 Tezos Whitepaper
 
 {% embed url="https://learn.tqtezos.com/files/whitepaper.html" %}
 
+## 🧬 Tezos Fundamentals
+
 {% embed url="https://learn.tqtezos.com/" %}
 
-## 🥠 Baking
+## 🚀 Delegators
+
+{% embed url="https://www.tezos.community/guides/2018/6/23/faqs-about-delegating-to-tezoscommunity" %}
+
+{% embed url="https://www.ledger.com/staking-tezos/" %}
+
+{% embed url="https://medium.com/wealthchain/why-financial-institutions-love-tezos-fb4d1cc4b0f0" %}
+
+## 🥠 Bakers
 
 {% embed url="https://medium.com/@obsidian.systems/benefits-and-risks-of-home-baking-a631c9ca745" %}
 

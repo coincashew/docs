@@ -4,13 +4,13 @@ description: Keep in touch!
 
 # Contact Us
 
-## Social Links
+## 🚀 Social Links
 
-Twitter:
+\*\*\*\*🐦 **Twitter:** @coincashew\_
 
-Email:
+\*\*\*\*📧 **Email:** coincashew@protonmail.com
 
-## Want to contribute?
+## 🔥 Want to contribute?
 
-Email us for an invite.
+Submit a PR on github, or reach out on twitter.
 

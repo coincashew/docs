@@ -1,2 +1,2 @@
-# Guide: How to mine XMR
+# Guide: How to mine Monero
 

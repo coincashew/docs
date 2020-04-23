@@ -1,6 +1,6 @@
 ---
 description: >-
-  A SMART WALLET FOR TEZOSGalleon is a deployment of Tezori, an open-source
+  A SMART WALLET FOR TEZOS - Galleon is a deployment of Tezori, an open-source
   wallet frame-work for Tezos, supporting both software and hardware wallets in
   eight languages on Mac, Windows, and Linux.
 ---

@@ -6,25 +6,25 @@ description: This guide is tested with the following configuration.
 
 ## 🎗 Minimum Setup Requirements
 
-* Ubuntu 18.04.4 LTS
-* Dual core CPU
-* 4GB RAM
-* 100GB SSD
-* Ledger Nano S
-* 24/7 internet connection with speeds at least 1 Mbps
-* 24/7 electrical power
-* Balance greater than 8000 xtz
+* **Operating system:** 64-bit Linux \(i.e. Ubuntu 18.04.4 LTS\)
+* **Processor:** Dual core CPU
+* **Memory:** 4GB RAM
+* **Storage:** 64GB SSD
+* **Hardware wallet:** Ledger Nano S
+* **Internet:** 24/7 broadband internet connection with speeds at least 1 Mbps
+* **Power:** 24/7 electrical power
+* **Tezos balance:** greater than 8000 xtz
 
-## 🏋♂ Futureproof Setup
+## 🏋♂ Recommended Futureproof Setup
 
-* Ubuntu 18.04.4 LTS
-* Quad core or better CPU
-* 16GB RAM
-* 500GB SSD
-* Ledger Nano S
-* Multiple 24/7 internet connections with speeds at least 10 Mbps \(example: fiber + cellular 4G\)
-* Redundant 24/7 electrical power with UPS
-* Balance greater than 8000 xtz
+* **Operating system:** 64-bit Linux \(i.e. Ubuntu 18.04.4 LTS\)
+* **Processor:** Quad core or better CPU
+* **Memory:** 16GB RAM
+* **Storage:** 500GB SSD with RAID
+* **Hardware wallet:** Ledger Nano S
+* **Internet:** Multiple 24/7 broadband internet connections with speeds at least 10 Mbps \(i.e. fiber + cellular 4G\)
+* **Power:** Redundant 24/7 electrical power with UPS
+* **Tezos balance:** greater than 8000 xtz
 
 
 

@@ -20,8 +20,6 @@ description: >-
 
 {% embed url="https://support.ledger.com/hc/en-us" %}
 
-
-
 ## 💰 Supported Assets
 
 {% embed url="https://support.ledger.com/hc/en-us/categories/115000811829-Apps" %}

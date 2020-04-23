@@ -1,13 +1,15 @@
 # Guide: Where to get Crypto
 
 {% hint style="info" %}
-🙋Are you new to crypto and need to a helping hand on how to get started? Or maybe you're just looking for a refresher because you've been away a bit. This guide is here for you.
+🙋Are you new to crypto and need a helping hand? Or maybe you're just looking for a refresher because you've been away a bit. 
+
+This guide is for you.
 {% endhint %}
 
 ## 🔥 Choose the tab that best describes you...
 
 {% tabs %}
-{% tab title="I already have some crypto" %}
+{% tab title="I already have crypto" %}
 ## Centralized Exchanges
 
 | Site | Location | KYC Required? |
@@ -93,8 +95,15 @@
 | [Crypto.com](https://crypto.com/) | 0 to 3.5% | Credit card \(Visa or MasterCard\). |
 | [Coinbase.com](https://www.coinbase.com) | 3.99% | Debit card or credit card \(Visa or MasterCard\). |
 | [Kional.io](https://koinal.io) | ~4% | Credit card \(Visa or MasterCard or UnionPay\). |
-| [Changelly](https://changelly.com) | 7.5% | Credit card \(Visa or MasterCard\). |
 | [Coinmama.com](https://www.coinmama.com) | 10.9% | Credit card, debit card, or bank transfer |
+{% endtab %}
+
+{% tab title="I want to earn crypto" %}
+{% embed url="https://www.coinbase.com/earn" %}
+
+{% embed url="https://medium.com/coinmonks/how-to-earn-crypto-19de67e3ec32" %}
+
+{% embed url="https://www.nichemarket.co.za/blog/money-talks/ways-earn-cryptocurrency" %}
 {% endtab %}
 {% endtabs %}
 

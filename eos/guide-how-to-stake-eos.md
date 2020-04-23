@@ -16,7 +16,7 @@ Remember, it's best practice to always withdraw coins from an Exchange.
 Bloks.io will be the quickest way to stake and is safe because your coins never leave your control.
 {% endhint %}
 
-For this example, we will delegate with Ledger Nano S/X.
+2. For this example, we will delegate with Ledger Nano S/X.
 
 ![Bloks.io interface](../.gitbook/assets/ee.PNG)
 
