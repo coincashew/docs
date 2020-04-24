@@ -35,6 +35,10 @@ Listed in order of **what not to do** along side with the correct action **to do
 | Carry around too much on mobile wallets | Store only what you need for everyday spending on mobile wallets |
 | Use simple to guess/lazy passwords | Use a "password manager" to generate strong passwords |
 
+{% hint style="danger" %}
+Elaborate scams or impersonation attempts are common schemes used by fraudsters to steal your private keys. Don't fall for it!
+{% endhint %}
+
 ## 🗝2. Managing seed phrase and private keys
 
 | ⚔ Don't | ✅Do |

@@ -32,6 +32,8 @@ description: >-
 
 {% embed url="https://developers.tezos.com/" %}
 
+{% embed url="https://tezosacademy.io/" %}
+
 {% embed url="http://doc.tzalpha.net/" %}
 
 {% embed url="https://training.nomadic-labs.com/" %}

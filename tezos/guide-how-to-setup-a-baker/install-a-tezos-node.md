@@ -4,11 +4,11 @@ description: 'Where the magic begins... Estimated duration: ~ 1 hour.'
 
 # 3. Install a Tezos Node
 
-## 📖 1\) Open a Terminal Window in Ubuntu
+## 📖 1. Open a Terminal Window in Ubuntu
 
 **Press** Ctrl+Alt+T. This will launch the Terminal.
 
-## 🏭 2\) Getting and building Tezos from source
+## 🏭 2. Getting and building Tezos from source
 
 Copy and paste these commands into the terminal line by line.
 
@@ -49,7 +49,7 @@ export TEZOS_CLIENT_UNSAFE_DISABLE_DISCLAIMER=Y
 Congratulations! You built your own Tezos node.
 {% endhint %}
 
-## ✨ 3\) Starting the Node
+## ✨ 3. Starting the Node
 
 First, you must generate a new identity in order to connect to the Tezos network.
 
@@ -61,7 +61,7 @@ First, you must generate a new identity in order to connect to the Tezos network
 This may take a few minutes to complete.
 {% endhint %}
 
-## 💿 4\) Restore a snapshot
+## 💿 4. Restore a snapshot
 
 Rather than taking days to download the Tezos blockchain from the p2p network, a node can be quickly synchronized in a few minutes from snapshot.
 
@@ -119,7 +119,7 @@ cd ~/tezos
 * **`full`** mode store all chain data since the beginning of the chain, but drop the archived contexts below the current checkpoint. Safe for baking, endorsing, and validating new blocks.
 {% endhint %}
 
-## 🧱5\) Starting the node
+## 🧱5. Starting the node
 
 ```bash
 cd ~/tezos

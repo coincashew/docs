@@ -3,6 +3,7 @@
 * [Getting Started](README.md)
 * [Contact Us](contact-us/README.md)
   * [Donations](contact-us/donations.md)
+  * [Disclaimer](contact-us/disclaimer.md)
 
 ## Wallets
 
@@ -62,9 +63,11 @@
 ## Ethereum
 
 * [Guide: How to setup a ETH 2.0 Node & Validator](https://prylabs.net/participate)
+* [External Reading Material](ethereum/external-reading-material.md)
 
 ## Cardano
 
+* [Guide: Install Daedalus mainnet wallet](cardano/guide-install-daedalus-mainnet-wallet.md)
 * [Guide: How to stake ADA](cardano/guide-how-to-stake-ada.md)
 * [Guide: How to setup a Stakepool](https://guides.poapool.com/)
 

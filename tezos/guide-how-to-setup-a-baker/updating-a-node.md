@@ -1,6 +1,6 @@
 # 6. Updating a node
 
-## 📡 1\) How to perform an update
+## 📡 1. How to perform an update
 
 From time to time, there will be new versions of Tezos. Follow [Tezos Foundation](https://twitter.com/TezosFoundation) on twitter and the [Official Tezos Gitlab](https://gitlab.com/tezos/tezos/-/releases) to ensure you don't miss any important releases.
 
@@ -38,7 +38,7 @@ mv tezos2/ tezos/
 Now restart your node, baker, endorser, and accuser processes. 
 {% endhint %}
 
-## 🧷 2\) Handling updates with new protocols
+## 🧷 2. Handling updates with new protocols
 
 Tezos performs regular on-chain governance by election. These elections progress through four stages and can conclude with a protocol upgrade which results in a new set of binaries. This is what makes Tezos self-amending.
 
@@ -63,4 +63,33 @@ For example, you would expect to run 7 binaries
 
 After the future protocol`"007"`activates on a later date, you can stop the previous binaries. In this example, you would stop all the`006` binaries.
 {% endhint %}
+
+## 🤯 3. In case of problems
+
+### 🛣 3.1 Forked off
+
+Forget to update your node and now your node is stuck on an old chain?
+
+Run this command to resume validating blocks.
+
+```text
+./tezos-admin-client unmark all invalid blocks
+```
+
+### 📂 3.2 Roll back to previous version from backup
+
+Following the above guide, you can simply restore the old Tezos directory.
+
+Then try the update procedure again.
+
+```text
+mv tezos/ tezos-rolled-back/
+mv tezos-old/ tezos/
+```
+
+### 🤖 3.3 Last resort: Rebuild from source code
+
+Complete section `2. Getting and building Tezos from source` from the following guide.
+
+{% page-ref page="install-a-tezos-node.md" %}
 
