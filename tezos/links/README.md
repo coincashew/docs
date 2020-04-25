@@ -1,6 +1,6 @@
-# Links
+# Overview
 
-## ⭐ Primary Data
+## ⭐ General Data
 
 | Site | Title |
 | :--- | :--- |
@@ -33,6 +33,17 @@
 | TzKT | [https://tzkt.io/](https://tzkt.io/) |
 | tezblock by AirGap | [https://tezblock.io/](https://tezblock.io/) |
 | Tezos.id | [https://www.tezos.id/](https://www.tezos.id/) |
+
+## 🏙 Public Nodes
+
+| Address |  |
+| :--- | :--- |
+| [https://api.tezos.org.ua](https://api.tezos.org.ua) | api |
+| [https://rpc.tzbeta.net](https://rpc.tzbeta.net) | rpc |
+| [https://rpc.tulip.tools/mainnet](https://rpc.tulip.tools/mainnet) | rpc |
+| [https://mainnet.tezos.org.ua](https://mainnet.tezos.org.ua) | api |
+| [https://teznode.letzbake.com](https://teznode.letzbake.com) | api |
+| [https://api.tzstats.com](https://api.tzstats.com) | api |
 
 ## 📊 Charts and Pricing
 

@@ -24,11 +24,9 @@ Validators are virtual and are activated by stakers. In PoW, users buy hardware 
 
 {% embed url="https://ethos.dev/beacon-chain/\#rewards-penalties" %}
 
-* **Eth 2.0 Staking Calculator:** [https://docs.google.com/spreadsheets/d/15tmPOvOgi3wKxJw7KQJKoUe-uonbYR6HF7u83LR5Mj4/edit\#gid=1548910165](https://docs.google.com/spreadsheets/d/15tmPOvOgi3wKxJw7KQJKoUe-uonbYR6HF7u83LR5Mj4/edit#gid=1548910165)
+{% embed url="https://ethereumprice.org/eth-2-calculator/" %}
 
 {% embed url="https://www.attestant.io/posts/evaluating-staking-services/" %}
-
-
 
 
 

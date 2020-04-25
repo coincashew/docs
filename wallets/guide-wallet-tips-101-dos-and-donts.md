@@ -33,7 +33,7 @@ Listed in order of **what not to do** along side with the correct action **to do
 | Store large amounts of crypto on an exchange or your phone/laptop | Store crypto on a dedicated hardware wallet aka Cold Storage |
 | Use an exchange or 3rd party as a wallet | Reduce counterparty risk by using your own wallet |
 | Carry around too much on mobile wallets | Store only what you need for everyday spending on mobile wallets |
-| Use simple to guess/lazy passwords | Use a "password manager" to generate strong passwords |
+| Use simple to guess/lazy passwords | Use a "[password manager](https://learn.shakepay.co/passwords-and-password-managers/)" to generate strong passwords |
 
 {% hint style="danger" %}
 Elaborate scams or impersonation attempts are common schemes used by fraudsters to steal your private keys. Don't fall for it!

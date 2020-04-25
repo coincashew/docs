@@ -43,6 +43,8 @@
 
 ## Tezos
 
+* [Overview](tezos/links/README.md)
+  * [External Reading Material](tezos/links/external-reading-material.md)
 * [Guide: How to stake XTZ](tezos/guide-how-to-stake-xtz.md)
 * [Guide: How to setup a Baker](tezos/guide-how-to-setup-a-baker/README.md)
   * [1. Requirements](tezos/guide-how-to-setup-a-baker/requirements.md)
@@ -53,8 +55,7 @@
   * [6. Updating a node](tezos/guide-how-to-setup-a-baker/updating-a-node.md)
   * [7. Tips, Tricks and Other Commands](tezos/guide-how-to-setup-a-baker/tips-and-tricks.md)
 * [Guide: How to buy Tezos](tezos/guide-how-to-buy-tezos.md)
-* [Links](tezos/links/README.md)
-  * [External Reading Material](tezos/links/external-reading-material.md)
+* [External Reading Material](tezos/external-reading-material.md)
 
 ## EOS
 
@@ -84,6 +85,8 @@
 ## Edgeware
 
 * [Guide: How to stake EDG](https://docs.edgewa.re/understanding-edgeware/staking/nominating/nominate-edg-to-a-validator)
+* [Guide: How to setup a EDG Node](https://docs.edgewa.re/understanding-edgeware/staking/validation/setting-up-a-node)
+* [Guide: How to retrieve my ETH](https://docs.edgewa.re/understanding-edgeware/lockdrop/retrieve-your-eth)
 
 ## Komodo
 
