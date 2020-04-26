@@ -10,6 +10,10 @@ description: >-
 
 {% embed url="https://get-scatter.com/" %}
 
+## 📑 Source Code
+
+{% embed url="https://github.com/GetScatter/ScatterDesktop" %}
+
 ## 🧙♀ Getting started
 
 {% embed url="https://support.get-scatter.com/collection/14-getting-started" %}

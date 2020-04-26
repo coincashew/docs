@@ -10,6 +10,10 @@ description: >-
 
 {% embed url="https://www.ledger.com/ledger-live/" %}
 
+## 📑 Source Code
+
+{% embed url="https://github.com/LedgerHQ/ledger-live-desktop" %}
+
 ## 🧙♀ Getting started
 
 {% embed url="https://www.youtube.com/watch?v=5xkqIwFWMoM" %}

@@ -8,6 +8,10 @@ description: Yoroi is a web light wallet for Cardano.
 
 {% embed url="https://yoroi-wallet.com/" %}
 
+## 📑 Source Wallet
+
+{% embed url="https://github.com/Emurgo/yoroi-frontend" %}
+
 ## 🧙♀ Getting started
 
 {% embed url="https://www.youtube.com/watch?v=DHtEgLMslIQ&feature=emb\_title" %}

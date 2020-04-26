@@ -11,7 +11,12 @@
   * [TrustWallet: Multi-currency](wallets/mobile-wallets/trustwallet-multi-currency.md)
   * [Coinomi: Multi-chain assets](wallets/mobile-wallets/coinomi-multi-chain-assets.md)
   * [Exodus: Multi-chain assets](wallets/mobile-wallets/exodus-multi-chain-assets.md)
+  * [argent: Ethereum](wallets/mobile-wallets/argent-ethereum.md)
   * [Status: Ethereum](wallets/mobile-wallets/status-ethereum.md)
+  * [Bitcoin.com wallet: BCH](wallets/mobile-wallets/bitcoin.com-wallet-bch.md)
+  * [Litewallet: LTC](wallets/mobile-wallets/litewallet-ltc.md)
+  * [Cakewallet: Monero](wallets/mobile-wallets/cakewallet-monero.md)
+  * [Monerujo: Monero](wallets/mobile-wallets/monerujo-monero.md)
   * [Enjin: Multi-currency](wallets/mobile-wallets/enjin-multi-currency.md)
   * [Pillar: Ethereum, BTC](wallets/mobile-wallets/pillar-ethereum-btc.md)
 * [Desktop Wallets](wallets/desktop-wallets/README.md)
@@ -43,8 +48,7 @@
 
 ## Tezos
 
-* [Overview](tezos/links/README.md)
-  * [External Reading Material](tezos/links/external-reading-material.md)
+* [Overview](tezos/links.md)
 * [Guide: How to stake XTZ](tezos/guide-how-to-stake-xtz.md)
 * [Guide: How to setup a Baker](tezos/guide-how-to-setup-a-baker/README.md)
   * [1. Requirements](tezos/guide-how-to-setup-a-baker/requirements.md)
@@ -122,6 +126,7 @@
 
 ## Bitcoin Cash
 
+* [Create a BCH paper wallet](https://paperwallet.bitcoin.com/cashwallet.html)
 * [Guide: How to setup a Wallet](bitcoin-cash/untitled.md)
 
 ## Binance Coin
@@ -144,7 +149,13 @@
 ## Monero
 
 * [Guide: How to mine Monero](monero/guide-how-to-mine-xmr.md)
+* [Create a XMR paper wallet](https://moneroaddress.org/)
 * [Guide: How to setup a Wallet](monero/guide-how-to-setup-a-wallet.md)
+
+## Litecoin
+
+* [Create a LTC paper wallet](https://liteaddress.org/)
+* [Guide: How to setup a Wallet](litecoin/guide-how-to-setup-a-wallet.md)
 
 ## NEO
 
@@ -159,10 +170,6 @@
 
 * [Guide: How to setup a Wallet](grin/guide-how-to-setup-a-wallet.md)
 * [Guide: How to mine GRIN](grin/guide-how-to-mine-grin.md)
-
-## Litecoin
-
-* [Guide: How to setup a Wallet](litecoin/guide-how-to-setup-a-wallet.md)
 
 ## Stellar
 

@@ -8,6 +8,10 @@ description: Secure Crypto Wallet for Android and iOS by Binance
 
 {% embed url="https://trustwallet.com" %}
 
+## 📑 Source Code
+
+{% embed url="https://github.com/trustwallet" %}
+
 ## 🧙♀ Getting started
 
 {% embed url="https://community.trustwallet.com/t/getting-started/40" %}

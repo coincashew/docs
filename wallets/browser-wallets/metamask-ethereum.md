@@ -8,6 +8,10 @@ description: A crypto wallet & gateway to blockchain apps
 
 {% embed url="https://metamask.io/" %}
 
+## 📑 Source Code
+
+{% embed url="https://github.com/MetaMask/metamask-extension" %}
+
 ## 🧙♀ Getting started
 
 {% embed url="https://www.youtube.com/watch?v=6Gf\_kRE4MJU" %}

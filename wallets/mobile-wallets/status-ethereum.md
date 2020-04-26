@@ -10,6 +10,10 @@ description: >-
 
 {% embed url="https://status.im/" %}
 
+## 📑 Source Code
+
+{% embed url="https://github.com/status-im" %}
+
 ## 💰 Supported Assets
 
 * Ethereum \(ETH\)
