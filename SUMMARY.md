@@ -48,7 +48,7 @@
 
 ## Tezos
 
-* [Overview](tezos/links.md)
+* [Overview: XTZ](tezos/links.md)
 * [Guide: How to stake XTZ](tezos/guide-how-to-stake-xtz.md)
 * [Guide: How to setup a Baker](tezos/guide-how-to-setup-a-baker/README.md)
   * [1. Requirements](tezos/guide-how-to-setup-a-baker/requirements.md)
@@ -63,119 +63,150 @@
 
 ## EOS
 
+* [Overview: EOS](eos/overview-eos.md)
 * [Guide: How to stake EOS](eos/guide-how-to-stake-eos.md)
 
 ## Ethereum
 
+* [Overview: ETH](ethereum/overview-eth.md)
 * [Guide: How to setup a ETH 2.0 Node & Validator](https://prylabs.net/participate)
 * [External Reading Material](ethereum/external-reading-material.md)
 
 ## Cardano
 
+* [Overview: ADA](cardano/overview-ada.md)
 * [Guide: Install Daedalus mainnet wallet](cardano/guide-install-daedalus-mainnet-wallet.md)
 * [Guide: How to stake ADA](cardano/guide-how-to-stake-ada.md)
+* [Guide: Build Haskell Pool by Cardano Community](https://cardano-community.github.io/guild-operators/)
 * [Guide: How to setup a Stakepool](https://guides.poapool.com/)
 
 ## ICON
 
+* [Overview: ICX](icon/overview-icx.md)
 * [Guide: How to stake ICX](icon/guide-how-to-stake-icx.md)
 
 ## HEX
 
+* [Overview: HEX](hex/overview-hex.md)
 * [Guide: How to buy HEX](hex/guide-how-to-buy-hex.md)
 * [Guide: How to claim HEX](hex/guide-how-to-claim-hex.md)
 * [Guide: How to stake HEX](hex/guide-how-to-stake-hex.md)
 
 ## Edgeware
 
+* [Overview: EDG](edgeware/overview-edg.md)
 * [Guide: How to stake EDG](https://docs.edgewa.re/understanding-edgeware/staking/nominating/nominate-edg-to-a-validator)
 * [Guide: How to setup a EDG Node](https://docs.edgewa.re/understanding-edgeware/staking/validation/setting-up-a-node)
 * [Guide: How to retrieve my ETH](https://docs.edgewa.re/understanding-edgeware/lockdrop/retrieve-your-eth)
 
 ## Komodo
 
+* [Overview: KMD](komodo/overview-kmd.md)
 * [Guide: How to earn KMD rewards](komodo/guide-how-to-earn-kmd-rewards.md)
 
 ## Zcoin
 
+* [Overview: XZC](zcoin/overview-xzc.md)
 * [Guide: How to stake XZC](https://zcoin.io/zcoin-znode-setup-guide/)
 
 ## Cosmos
 
+* [Overview: ATOM](cosmos/overview-atom.md)
 * [Guide: How to stake Atoms](https://hub.cosmos.network/master/delegators/delegator-guide-cli.html)
 
 ## Synthetix
 
+* [Overview: SNX](synthetix/overview-snx.md)
 * [Guide: How to stake Synthetix](https://synthetix.community/docs/staking-snx-overview)
 
 ## Decred
 
+* [Overview: DCR](decred/overview-dcr.md)
 * [Guide: How to stake Decred](https://docs.decred.org/proof-of-stake/how-to-stake/)
 
 ## LivePeer
 
+* [Overview: LPT](livepeer/overview-lpt.md)
 * [Guide: How to stake LPT](https://github.com/livepeer/wiki/wiki/Delegating)
 
 ## Waves
 
+* [Overview: WAVES](waves/overview-waves.md)
 * [Guide: How to lease Wave Tokens](https://docs.waves.exchange/en/waves-exchange/waves-exchange-online-desktop/online-desktop-account/online-desktop-lease)
 
 ## Vechain
 
+* [Overview: VET](vechain/overview-vet.md)
 * [Guide: How to stake VET](vechain/guide-how-to-stake-vet.md)
 
 ## Bitcoin Cash
 
+* [Overview: BCH](bitcoin-cash/overview-bch.md)
 * [Create a BCH paper wallet](https://paperwallet.bitcoin.com/cashwallet.html)
 * [Guide: How to setup a Wallet](bitcoin-cash/untitled.md)
 
 ## Binance Coin
 
+* [Overview: BNB](binance-coin/overview-bnb.md)
 * [Guide: How to stake BNB](binance-coin/guide-how-to-stake-bnb.md)
 
 ## Ontology
 
+* [Overview: ONT](ontology/overview-ont.md)
 * [Guide: How to stake ONT](ontology/guide-how-to-stake-ont.md)
 
 ## THETA
 
+* [Overview: THETA](theta/overview-theta.md)
 * [Guide: How to stake THETA](theta/guide-how-to-stake-theta.md)
 
 ## Beam
 
+* [Overview: BEAM](beam/overview-beam.md)
 * [Guide: How to mine BEAM](beam/guide-how-to-mine-beam.md)
 * [Guide: How to setup a Wallet](beam/guide-how-to-setup-a-wallet.md)
 
 ## Monero
 
+* [Overview: XMR](monero/overview-xmr.md)
 * [Guide: How to mine Monero](monero/guide-how-to-mine-xmr.md)
 * [Create a XMR paper wallet](https://moneroaddress.org/)
 * [Guide: How to setup a Wallet](monero/guide-how-to-setup-a-wallet.md)
 
 ## Litecoin
 
+* [Overview: LTC](litecoin/overview-ltc.md)
 * [Create a LTC paper wallet](https://liteaddress.org/)
 * [Guide: How to setup a Wallet](litecoin/guide-how-to-setup-a-wallet.md)
 
 ## NEO
 
+* [Overview: NEO](neo/overview-neo.md)
 * [Guide: How to stake NEO](neo/guide-how-to-stake-neo.md)
 
 ## Telos
 
+* [Overview: TLOS](telos/overview-tlos.md)
 * [Guide: How to claim TLOS](telos/guide-how-to-claim-tlos.md)
 * [Guide: How to stake TLOS](telos/guide-how-to-stake-tlos.md)
 
 ## Grin
 
+* [Overview: GRIN](grin/overview-grin.md)
 * [Guide: How to setup a Wallet](grin/guide-how-to-setup-a-wallet.md)
 * [Guide: How to mine GRIN](grin/guide-how-to-mine-grin.md)
 
 ## Stellar
 
+* [Overview: XLM](stellar/overview-xlm.md)
 * [Guide: How to setup a Wallet](stellar/guide-how-to-setup-a-wallet.md)
 
 ## TRON
 
+* [Overview: TRX](tron/overview-trx.md)
 * [Guide: How to setup a Wallet](tron/guide-how-to-setup-a-wallet.md)
+
+## Bitcoin
+
+* [Overview: BTC](bitcoin/overview-btc.md)
 

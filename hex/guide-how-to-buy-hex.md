@@ -43,3 +43,25 @@ Notice the opposite asset is automatically filled with an estimated amount.
 Congratulations. It's that easy!
 {% endhint %}
 
+## 🔥 4. Alternative: Transform ETH into HEX
+
+1. Visit [go.hex.win](https://go.hex.win/?r=0xFa802BB14AE13810381e8cb09755b39249cE5Ac7) for your 10% bonus
+2. Click "Add to MetaMask" and allow the connection to MetaMask
+3. Click **Transform** tab
+4. Click **ENTER** button
+5. Type **how much ETH** to transform
+6. Confirm transaction with MetaMask wallet
+7. Revisit after one day and click **EXIT** to get your Hex.
+
+{% hint style="info" %}
+How much HEX you receive will depend on how much ETH is transformed by everyone on the same day.
+{% endhint %}
+
+![Screenshot of Transform lobby](../.gitbook/assets/hextrans.PNG)
+
+### 🎞 Video tutorial on how to use Transform lobby.
+
+{% embed url="https://youtu.be/haKyp9FPVeo?t=120" %}
+
+
+

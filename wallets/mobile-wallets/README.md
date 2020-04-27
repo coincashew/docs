@@ -12,5 +12,13 @@
 
 {% page-ref page="pillar-ethereum-btc.md" %}
 
+{% page-ref page="argent-ethereum.md" %}
 
+{% page-ref page="bitcoin.com-wallet-bch.md" %}
+
+{% page-ref page="litewallet-ltc.md" %}
+
+{% page-ref page="cakewallet-monero.md" %}
+
+{% page-ref page="monerujo-monero.md" %}
 
