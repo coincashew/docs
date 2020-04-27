@@ -26,32 +26,36 @@ Accelerating the adoption of crypto! Yes you are.
 ## 🙋 I want to ...
 
 {% tabs %}
-
-
-
+{% tab title="Stake Coins" %}
 {% page-ref page="tezos/guide-how-to-stake-xtz.md" %}
+
+{% page-ref page="neo/guide-how-to-stake-neo.md" %}
+
+{% page-ref page="cardano/guide-how-to-stake-ada.md" %}
+
+{% page-ref page="hex/guide-how-to-stake-hex.md" %}
 
 {% page-ref page="eos/guide-how-to-stake-eos.md" %}
 
 {% page-ref page="icon/guide-how-to-stake-icx.md" %}
+{% endtab %}
 
-{% page-ref page="cardano/guide-how-to-stake-ada.md" %}
-
-{% page-ref page="neo/guide-how-to-stake-neo.md" %}
-
-{% page-ref page="hex/guide-how-to-stake-hex.md" %}
-
-
-
+{% tab title="Get Crypto" %}
 {% page-ref page="exchanges/guide-where-to-get-crypto.md" %}
+{% endtab %}
 
-
-
+{% tab title="Mine" %}
 {% page-ref page="monero/guide-how-to-mine-xmr.md" %}
 
-{% page-ref page="grin/guide-how-to-mine-grin.md" %}
-
 {% page-ref page="beam/guide-how-to-mine-beam.md" %}
+
+{% page-ref page="grin/guide-how-to-mine-grin.md" %}
+{% endtab %}
+{% endtabs %}
+
+
+
+
 
 
 

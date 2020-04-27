@@ -10,7 +10,7 @@ description: >-
 
 {% embed url="https://www.exodus.io/" caption="" %}
 
-## 🧙♀ Getting started
+## 🧙 Getting started
 
 {% embed url="https://support.exodus.io/article/37-how-do-i-get-started-with-exodus" caption="" %}
 
