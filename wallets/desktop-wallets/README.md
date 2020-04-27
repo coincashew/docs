@@ -1,7 +1,5 @@
 # Desktop Wallets
 
-{% page-ref page="exodus-multi-chain-assets.md" %}
-
 {% page-ref page="coinomi-multi-chain-assets.md" %}
 
 {% page-ref page="atomic-multi-currency.md" %}

@@ -6,6 +6,10 @@ HEX tokens stored on a local wallet. You control the seed/private keys.
 
 ## 🌜 2. Install and use a compatible wallet
 
+{% hint style="info" %}
+Your ETH address is your HEX address.
+{% endhint %}
+
 {% page-ref page="../wallets/browser-wallets/metamask-ethereum.md" %}
 
 {% page-ref page="../wallets/mobile-wallets/trustwallet-multi-currency.md" %}

@@ -4,6 +4,10 @@
 
 Refer to the following link if you need to setup MetaMask.
 
+{% hint style="info" %}
+Your ETH address is your HEX address.
+{% endhint %}
+
 {% page-ref page="../wallets/browser-wallets/metamask-ethereum.md" %}
 
 ## 💰 2. Fund your account with Ether

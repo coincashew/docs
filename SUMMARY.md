@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Getting Started](README.md)
-* [Contact Us](contact-us/README.md)
+* [About Us](contact-us/README.md)
   * [Donations](contact-us/donations.md)
   * [Disclaimer](contact-us/disclaimer.md)
 
@@ -70,6 +70,7 @@
 
 * [Overview: ETH](ethereum/overview-eth.md)
 * [Guide: How to setup a ETH 2.0 Node & Validator](https://prylabs.net/participate)
+* [Guide: How to setup a Lighthouse Validator](https://lighthouse-book.sigmaprime.io/intro.html)
 * [External Reading Material](ethereum/external-reading-material.md)
 
 ## Cardano
@@ -143,6 +144,7 @@
 
 * [Overview: BCH](bitcoin-cash/overview-bch.md)
 * [Create a BCH paper wallet](https://paperwallet.bitcoin.com/cashwallet.html)
+* [Guide: How to use FlipStarter](https://read.cash/@flipstarter/how-to-support-a-flipstarter-campaign-f27240d9)
 * [Guide: How to setup a Wallet](bitcoin-cash/untitled.md)
 
 ## Binance Coin
@@ -204,6 +206,7 @@
 ## TRON
 
 * [Overview: TRX](tron/overview-trx.md)
+* [Guide: How to stake TRX](tron/guide-how-to-stake-trx.md)
 * [Guide: How to setup a Wallet](tron/guide-how-to-setup-a-wallet.md)
 
 ## Bitcoin

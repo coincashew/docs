@@ -7,6 +7,10 @@
 
 ## 🌜 2. Install and use a compatible wallet
 
+{% hint style="info" %}
+Your ETH address is your HEX address.
+{% endhint %}
+
 {% page-ref page="../wallets/browser-wallets/metamask-ethereum.md" %}
 
 ## 🔥 3. Claim your HEX

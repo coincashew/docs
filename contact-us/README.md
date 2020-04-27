@@ -2,7 +2,7 @@
 description: Keep in touch!
 ---
 
-# Contact Us
+# About Us
 
 ## 🚀 Social Links
 

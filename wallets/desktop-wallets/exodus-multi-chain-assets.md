@@ -8,15 +8,15 @@ description: >-
 
 ## 🚀 Official Website
 
-{% embed url="https://www.exodus.io/" %}
+{% embed url="https://www.exodus.io/" caption="" %}
 
 ## 🧙♀ Getting started
 
-{% embed url="https://support.exodus.io/article/37-how-do-i-get-started-with-exodus" %}
+{% embed url="https://support.exodus.io/article/37-how-do-i-get-started-with-exodus" caption="" %}
 
 ## ⁉ FAQ
 
-{% embed url="https://support.exodus.io/" %}
+{% embed url="https://support.exodus.io/" caption="" %}
 
 ## 💰 Supported Assets
 

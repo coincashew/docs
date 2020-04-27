@@ -9,9 +9,9 @@
 
 ## 🎯 What is CoinCashew?
 
-CoinCashew aims to be your curated guide and your best how-to instructions for all your favorite cryptocurrencies. **Learn to do anything with crypto.** 
+CoinCashew aims to be your curated guide and your best how-to instructions for all your favorite cryptocurrencies. **Learn to do anything with crypto.**
 
-Already have some notes or perhaps made your own guide? Scale, share, and amplify your knowledge. Your pull request contributions are welcome on GitHub! 
+Already have some notes or perhaps made your own guide? Scale, share, and amplify your knowledge. Your pull request contributions are welcome on GitHub!
 
 {% hint style="success" %}
 Accelerating the adoption of crypto! Yes you are.
@@ -19,10 +19,16 @@ Accelerating the adoption of crypto! Yes you are.
 
 > "CoinCashew was like the expert crypto mentor I never knew I needed. Saved me so much time and money!" -- TheRealSatoshi
 
+> "One guide to guide them all." -- cambo
+
+> "Crypto explained, ELI5 style" --5 year young
+
 ## 🙋 I want to ...
 
 {% tabs %}
-{% tab title="Stake Coins" %}
+
+
+
 {% page-ref page="tezos/guide-how-to-stake-xtz.md" %}
 
 {% page-ref page="eos/guide-how-to-stake-eos.md" %}
@@ -34,20 +40,18 @@ Accelerating the adoption of crypto! Yes you are.
 {% page-ref page="neo/guide-how-to-stake-neo.md" %}
 
 {% page-ref page="hex/guide-how-to-stake-hex.md" %}
-{% endtab %}
 
-{% tab title="Get Crypto" %}
+
+
 {% page-ref page="exchanges/guide-where-to-get-crypto.md" %}
-{% endtab %}
 
-{% tab title="Mine Crypto" %}
+
+
 {% page-ref page="monero/guide-how-to-mine-xmr.md" %}
 
 {% page-ref page="grin/guide-how-to-mine-grin.md" %}
 
 {% page-ref page="beam/guide-how-to-mine-beam.md" %}
-{% endtab %}
 
-{% tab title="Create a Wallet" %}
-{% endtabs %}
+
 

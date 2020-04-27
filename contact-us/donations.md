@@ -37,14 +37,6 @@ qqzkncqh4xej90asznr4xhspz8zqme8agc4j4v8cxs
 ```
 {% endtab %}
 
-{% tab title="Litecoin" %}
-![](../.gitbook/assets/donate-ltc.png)
-
-```text
-ltc1qcpwzqhkeathvygd263lh5vsshxda9z7tskjcmf
-```
-{% endtab %}
-
 {% tab title="Bitcoin" %}
 ![](../.gitbook/assets/donate-btc.png)
 
@@ -63,6 +55,16 @@ bnb13uaxxcfflt708gdaqurx39jk75xdyl6e2eyapr
 {% endtabs %}
 
 {% tabs %}
+{% tab title="Litecoin" %}
+
+
+![](../.gitbook/assets/donate-ltc.png)
+
+```text
+ltc1qcpwzqhkeathvygd263lh5vsshxda9z7tskjcmf
+```
+{% endtab %}
+
 {% tab title="Digibyte" %}
 ![](../.gitbook/assets/donate-dgb.png)
 

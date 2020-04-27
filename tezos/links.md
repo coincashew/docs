@@ -54,8 +54,5 @@
 | Coinbase | [https://www.coinbase.com/price/tezos](https://www.coinbase.com/price/tezos) |
 | Coingecko | [https://www.coingecko.com/en/coins/tezos](https://www.coingecko.com/en/coins/tezos) |
 | Coinpaprika | [https://coinpaprika.com/coin/xtz-tezos/](https://coinpaprika.com/coin/xtz-tezos/) |
-| Worldcoinindex | [https://www.worldcoinindex.com/coin/tezos](https://www.worldcoinindex.com/coin/tezos) |
 | Cryptocompare | [https://www.cryptocompare.com/coins/xtz/overview](https://www.cryptocompare.com/coins/xtz/overview) |
-| Coincodex | [https://coincodex.com/crypto/tezos/](https://coincodex.com/crypto/tezos/) |
-| Nasdaq | [https://www.nasdaq.com/market-activity/cryptocurrency/xtz](https://www.nasdaq.com/market-activity/cryptocurrency/xtz) |
 
