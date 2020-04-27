@@ -9,7 +9,7 @@
 
 ## 🎯 What is CoinCashew?
 
-CoinCashew aims to be your curated guide and your best how-to instructions for your favorite cryptocurrencies. **Learn to do anything with crypto.** 
+CoinCashew aims to be your curated guide and your best how-to instructions for all your favorite cryptocurrencies. **Learn to do anything with crypto.** 
 
 Already have some notes or perhaps made your own guide? Scale, share, and amplify your knowledge. Your pull request contributions are welcome on GitHub! 
 
