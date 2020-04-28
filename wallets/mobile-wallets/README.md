@@ -22,3 +22,7 @@
 
 {% page-ref page="monerujo-monero.md" %}
 
+{% page-ref page="vechainthor-wallet-vet.md" %}
+
+
+

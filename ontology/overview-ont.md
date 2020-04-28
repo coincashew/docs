@@ -24,7 +24,6 @@
 | :--- |
 | [https://explorer.ont.io/](https://explorer.ont.io/) |
 | [https://ont.tokenview.com/](https://ont.tokenview.com/) |
-|  |
 
 ## 📊 Charts and Pricing
 

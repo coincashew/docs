@@ -18,6 +18,7 @@
   * [Cakewallet: Monero](wallets/mobile-wallets/cakewallet-monero.md)
   * [Monerujo: Monero](wallets/mobile-wallets/monerujo-monero.md)
   * [Enjin: Multi-currency](wallets/mobile-wallets/enjin-multi-currency.md)
+  * [VeChainThor Wallet: VET](wallets/mobile-wallets/vechainthor-wallet-vet.md)
   * [Pillar: Ethereum, BTC](wallets/mobile-wallets/pillar-ethereum-btc.md)
 * [Desktop Wallets](wallets/desktop-wallets/README.md)
   * [Coinomi: Multi-chain assets](wallets/desktop-wallets/coinomi-multi-chain-assets.md)
@@ -26,6 +27,11 @@
   * [Galleon: Tezos](wallets/desktop-wallets/galleon-tezos.md)
   * [MyCrypto: Ethereum](wallets/desktop-wallets/mycrypto-ethereum.md)
   * [Scatter: EOS](wallets/desktop-wallets/scatter-eos.md)
+  * [Beam.mw: BEAM](wallets/desktop-wallets/beam.mw-beam.md)
+  * [Monero: Official GUI](wallets/desktop-wallets/monero-official-gui.md)
+  * [Solar: Stellar](wallets/desktop-wallets/solar-stellar.md)
+  * [Grin++: Grin](wallets/desktop-wallets/grin++-grin.md)
+  * [Sync: Vechain](wallets/desktop-wallets/sync-vechain.md)
   * [O3: NEO, ONT](wallets/desktop-wallets/o3-neo-ont.md)
 * [Hardware Wallets](wallets/hardware-wallets/README.md)
   * [Ledger Live: Ledger Nano Wallet](wallets/hardware-wallets/ledger-live-ledger-nano-wallet/README.md)
@@ -36,6 +42,7 @@
     * [Guide: How to setup KeepKey Hardware Wallet](https://keepkey.shapeshift.com/get-started/)
   * [Where to Buy and Overall Review](wallets/hardware-wallets/where-to-buy.md)
 * [Browser Wallets](wallets/browser-wallets/README.md)
+  * [Stellar: Account Viewer](wallets/browser-wallets/stellar-account-viewer.md)
   * [MetaMask: Ethereum](wallets/browser-wallets/metamask-ethereum.md)
   * [Yoroi-wallet: Cardano](wallets/browser-wallets/yoroi-wallet-cardano.md)
   * [ICONex: Icon](wallets/browser-wallets/iconex-icon.md)
@@ -45,6 +52,14 @@
 ## Exchanges
 
 * [Guide: Where to get Crypto](exchanges/guide-where-to-get-crypto.md)
+
+## Ethereum
+
+* [Overview: ETH](ethereum/overview-eth.md)
+* [Guide: How to setup a ETH 2.0 Node & Validator](https://prylabs.net/participate)
+* [Guide: How to setup a Lighthouse Validator](https://lighthouse-book.sigmaprime.io/intro.html)
+* [Guide: How to buy ETH](ethereum/guide-how-to-buy-eth.md)
+* [External Reading Material](ethereum/external-reading-material.md)
 
 ## Tezos
 
@@ -61,18 +76,6 @@
 * [Guide: How to buy Tezos](tezos/guide-how-to-buy-tezos.md)
 * [External Reading Material](tezos/external-reading-material.md)
 
-## EOS
-
-* [Overview: EOS](eos/overview-eos.md)
-* [Guide: How to stake EOS](eos/guide-how-to-stake-eos.md)
-
-## Ethereum
-
-* [Overview: ETH](ethereum/overview-eth.md)
-* [Guide: How to setup a ETH 2.0 Node & Validator](https://prylabs.net/participate)
-* [Guide: How to setup a Lighthouse Validator](https://lighthouse-book.sigmaprime.io/intro.html)
-* [External Reading Material](ethereum/external-reading-material.md)
-
 ## Cardano
 
 * [Overview: ADA](cardano/overview-ada.md)
@@ -80,6 +83,11 @@
 * [Guide: How to stake ADA](cardano/guide-how-to-stake-ada.md)
 * [Guide: Build Haskell Pool by Cardano Community](https://cardano-community.github.io/guild-operators/)
 * [Guide: How to setup a Stakepool](https://guides.poapool.com/)
+
+## EOS
+
+* [Overview: EOS](eos/overview-eos.md)
+* [Guide: How to stake EOS](eos/guide-how-to-stake-eos.md)
 
 ## ICON
 
@@ -130,10 +138,15 @@
 * [Overview: LPT](livepeer/overview-lpt.md)
 * [Guide: How to stake LPT](https://github.com/livepeer/wiki/wiki/Delegating)
 
-## Waves
+## NEO
 
-* [Overview: WAVES](waves/overview-waves.md)
-* [Guide: How to lease Wave Tokens](https://docs.waves.exchange/en/waves-exchange/waves-exchange-online-desktop/online-desktop-account/online-desktop-lease)
+* [Overview: NEO](neo/overview-neo.md)
+* [Guide: How to stake NEO](neo/guide-how-to-stake-neo.md)
+
+## Ontology
+
+* [Overview: ONT](ontology/overview-ont.md)
+* [Guide: How to stake ONT](ontology/guide-how-to-stake-ont.md)
 
 ## Vechain
 
@@ -147,27 +160,6 @@
 * [Guide: How to use FlipStarter](https://read.cash/@flipstarter/how-to-support-a-flipstarter-campaign-f27240d9)
 * [Guide: How to setup a Wallet](bitcoin-cash/untitled.md)
 
-## Binance Coin
-
-* [Overview: BNB](binance-coin/overview-bnb.md)
-* [Guide: How to stake BNB](binance-coin/guide-how-to-stake-bnb.md)
-
-## Ontology
-
-* [Overview: ONT](ontology/overview-ont.md)
-* [Guide: How to stake ONT](ontology/guide-how-to-stake-ont.md)
-
-## THETA
-
-* [Overview: THETA](theta/overview-theta.md)
-* [Guide: How to stake THETA](theta/guide-how-to-stake-theta.md)
-
-## Beam
-
-* [Overview: BEAM](beam/overview-beam.md)
-* [Guide: How to mine BEAM](beam/guide-how-to-mine-beam.md)
-* [Guide: How to setup a Wallet](beam/guide-how-to-setup-a-wallet.md)
-
 ## Monero
 
 * [Overview: XMR](monero/overview-xmr.md)
@@ -175,28 +167,43 @@
 * [Create a XMR paper wallet](https://moneroaddress.org/)
 * [Guide: How to setup a Wallet](monero/guide-how-to-setup-a-wallet.md)
 
+## Grin
+
+* [Overview: GRIN](grin/overview-grin.md)
+* [Guide: How to mine GRIN](grin/guide-how-to-mine-grin.md)
+* [Guide: How to setup a Wallet](grin/guide-how-to-setup-a-wallet.md)
+
+## Beam
+
+* [Overview: BEAM](beam/overview-beam.md)
+* [Guide: How to mine BEAM](beam/guide-how-to-mine-beam.md)
+
+## Binance Coin
+
+* [Overview: BNB](binance-coin/overview-bnb.md)
+* [Guide: How to stake BNB](binance-coin/guide-how-to-stake-bnb.md)
+
+## Waves
+
+* [Overview: WAVES](waves/overview-waves.md)
+* [Guide: How to lease Wave Tokens](https://docs.waves.exchange/en/waves-exchange/waves-exchange-online-desktop/online-desktop-account/online-desktop-lease)
+
+## THETA
+
+* [Overview: THETA](theta/overview-theta.md)
+* [Guide: How to stake THETA](theta/guide-how-to-stake-theta.md)
+
 ## Litecoin
 
 * [Overview: LTC](litecoin/overview-ltc.md)
 * [Create a LTC paper wallet](https://liteaddress.org/)
 * [Guide: How to setup a Wallet](litecoin/guide-how-to-setup-a-wallet.md)
 
-## NEO
-
-* [Overview: NEO](neo/overview-neo.md)
-* [Guide: How to stake NEO](neo/guide-how-to-stake-neo.md)
-
 ## Telos
 
 * [Overview: TLOS](telos/overview-tlos.md)
 * [Guide: How to claim TLOS](telos/guide-how-to-claim-tlos.md)
 * [Guide: How to stake TLOS](telos/guide-how-to-stake-tlos.md)
-
-## Grin
-
-* [Overview: GRIN](grin/overview-grin.md)
-* [Guide: How to setup a Wallet](grin/guide-how-to-setup-a-wallet.md)
-* [Guide: How to mine GRIN](grin/guide-how-to-mine-grin.md)
 
 ## Stellar
 
@@ -207,7 +214,6 @@
 
 * [Overview: TRX](tron/overview-trx.md)
 * [Guide: How to stake TRX](tron/guide-how-to-stake-trx.md)
-* [Guide: How to setup a Wallet](tron/guide-how-to-setup-a-wallet.md)
 
 ## Bitcoin
 

@@ -28,5 +28,9 @@ Validators are virtual and are activated by stakers. In PoW, users buy hardware 
 
 {% embed url="https://www.attestant.io/posts/evaluating-staking-services/" %}
 
+## 👩💻 Development Courses
 
+{% embed url="https://cryptozombies.io/en/course" %}
+
+{% embed url="https://cryptoeconomics.study/" %}
 

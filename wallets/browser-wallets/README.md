@@ -6,5 +6,5 @@
 
 {% page-ref page="iconex-icon.md" %}
 
-
+{% page-ref page="stellar-account-viewer.md" %}
 

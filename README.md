@@ -1,29 +1,14 @@
 # Getting Started
 
-## 🎉 Announcements
+##  ![](.gitbook/assets/160.png) Welcome to CoinCashew
 
-* [Guide: Crypto Wallet Tips 101 - Do's and Don'ts](wallets/guide-wallet-tips-101-dos-and-donts.md)
-* [Added Tezos Baker guide](tezos/guide-how-to-setup-a-baker/)
-* [Added EOS staking guide](eos/guide-how-to-stake-eos.md)
-* [Added where to get crypto guide ](exchanges/guide-where-to-get-crypto.md)
-
-## 🎯 What is CoinCashew?
-
-CoinCashew aims to be your curated guide and your best how-to instructions for all your favorite cryptocurrencies. **Learn to do anything with crypto.**
-
-Already have some notes or perhaps made your own guide? Scale, share, and amplify your knowledge. Your pull request contributions are welcome on GitHub!
+> ### The curated guide and best how-to instructions for all your favorite cryptocurrencies.
 
 {% hint style="success" %}
-Accelerating the adoption of crypto! Yes you are.
+✨ Learn to do anything with crypto. _Browse the menu._
 {% endhint %}
 
-> "CoinCashew was like the expert crypto mentor I never knew I needed. Saved me so much time and money!" -- TheRealSatoshi
-
-> "One guide to guide them all." -- cambo
-
-> "Crypto explained, ELI5 style" --5 year young
-
-## 🙋 I want to ...
+## '🙋 I would like to ...
 
 {% tabs %}
 {% tab title="Stake Coins" %}
@@ -38,6 +23,16 @@ Accelerating the adoption of crypto! Yes you are.
 {% page-ref page="eos/guide-how-to-stake-eos.md" %}
 
 {% page-ref page="icon/guide-how-to-stake-icx.md" %}
+
+{% page-ref page="vechain/guide-how-to-stake-vet.md" %}
+
+{% page-ref page="neo/guide-how-to-stake-neo.md" %}
+
+{% page-ref page="telos/guide-how-to-stake-tlos.md" %}
+
+{% page-ref page="ontology/guide-how-to-stake-ont.md" %}
+
+{% page-ref page="tron/guide-how-to-stake-trx.md" %}
 {% endtab %}
 
 {% tab title="Get Crypto" %}
@@ -53,9 +48,19 @@ Accelerating the adoption of crypto! Yes you are.
 {% endtab %}
 {% endtabs %}
 
+## 😋 What others are saying...
 
+> "CoinCashew was like the expert crypto mentor I never knew I needed. Saved me so much time and money!" -- TheRealSatoshi
 
+> "One guide to guide them all." --Cambo
 
+> "Crypto explained, ELI5 style" --5 year young
 
+## 🎯 Looking to contribute?
 
+Perhaps you wrote your own guide? Scale, share, and amplify your knowledge. Your pull request contributions are welcome on GitHub!
+
+{% hint style="success" %}
+Accelerating the adoption of crypto! Yes, you are. 
+{% endhint %}
 

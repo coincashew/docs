@@ -12,5 +12,13 @@
 
 {% page-ref page="o3-neo-ont.md" %}
 
+{% page-ref page="solar-stellar.md" %}
 
+{% page-ref page="beam.mw-beam.md" %}
+
+{% page-ref page="grin++-grin.md" %}
+
+{% page-ref page="monero-official-gui.md" %}
+
+{% page-ref page="sync-vechain.md" %}
 
