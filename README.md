@@ -1,11 +1,11 @@
-# Getting Started
+# Home
 
-##  ![](.gitbook/assets/160.png) Welcome to CoinCashew
+##  ![](.gitbook/assets/160.png) CoinCashew
 
-> ### The curated guide and best how-to instructions for all your favorite cryptocurrencies.
+> ### The best how-to guide for all your favorite cryptocurrencies.
 
 {% hint style="success" %}
-✨ Learn to do anything with crypto. _Browse the menu._
+✨ Learn to do anything with crypto, better. _Browse the menu._
 {% endhint %}
 
 ## '🙋 I would like to ...
@@ -48,7 +48,7 @@
 {% endtab %}
 {% endtabs %}
 
-## 😋 What others are saying...
+## 😋 Blazingly helpful
 
 > "CoinCashew was like the expert crypto mentor I never knew I needed. Saved me so much time and money!" -- TheRealSatoshi
 
@@ -56,7 +56,7 @@
 
 > "Crypto explained, ELI5 style" --5 year young
 
-## 🎯 Looking to contribute?
+## 🎯 Be the contributor, the builder.
 
 Perhaps you wrote your own guide? Scale, share, and amplify your knowledge. Your pull request contributions are welcome on GitHub!
 

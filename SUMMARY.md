@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Getting Started](README.md)
+* [Home](README.md)
 * [About Us](contact-us/README.md)
   * [Donations](contact-us/donations.md)
   * [Disclaimer](contact-us/disclaimer.md)

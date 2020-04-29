@@ -1,7 +1,7 @@
 # Donations
 
-{% hint style="success" %}
-Here's our TipJar. Thank you for anything you can send.
+{% hint style="info" %}
+No donations are expected. If you feel you want to, please see below. Thanks!
 {% endhint %}
 
 {% tabs %}
