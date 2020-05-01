@@ -8,7 +8,7 @@
 ## Wallets
 
 * [Mobile Wallets](wallets/mobile-wallets/README.md)
-  * [TrustWallet: Multi-currency](wallets/mobile-wallets/trustwallet-multi-currency.md)
+  * [TrustWallet: Multi-chain assets](wallets/mobile-wallets/trustwallet-multi-currency.md)
   * [Coinomi: Multi-chain assets](wallets/mobile-wallets/coinomi-multi-chain-assets.md)
   * [Exodus: Multi-chain assets](wallets/mobile-wallets/exodus-multi-chain-assets.md)
   * [argent: Ethereum](wallets/mobile-wallets/argent-ethereum.md)
@@ -17,8 +17,9 @@
   * [Litewallet: LTC](wallets/mobile-wallets/litewallet-ltc.md)
   * [Cakewallet: Monero](wallets/mobile-wallets/cakewallet-monero.md)
   * [Monerujo: Monero](wallets/mobile-wallets/monerujo-monero.md)
-  * [Enjin: Multi-currency](wallets/mobile-wallets/enjin-multi-currency.md)
+  * [Enjin: Multi-chain assets](wallets/mobile-wallets/enjin-multi-currency.md)
   * [VeChainThor Wallet: VET](wallets/mobile-wallets/vechainthor-wallet-vet.md)
+  * [TRONWALLET: TRX](wallets/mobile-wallets/tronwallet-trx.md)
   * [Pillar: Ethereum, BTC](wallets/mobile-wallets/pillar-ethereum-btc.md)
 * [Desktop Wallets](wallets/desktop-wallets/README.md)
   * [Coinomi: Multi-chain assets](wallets/desktop-wallets/coinomi-multi-chain-assets.md)
@@ -32,6 +33,7 @@
   * [Solar: Stellar](wallets/desktop-wallets/solar-stellar.md)
   * [Grin++: Grin](wallets/desktop-wallets/grin++-grin.md)
   * [Sync: Vechain](wallets/desktop-wallets/sync-vechain.md)
+  * [Sqrl: TLOS](wallets/desktop-wallets/sqrl-tlos.md)
   * [O3: NEO, ONT](wallets/desktop-wallets/o3-neo-ont.md)
 * [Hardware Wallets](wallets/hardware-wallets/README.md)
   * [Ledger Live: Ledger Nano Wallet](wallets/hardware-wallets/ledger-live-ledger-nano-wallet/README.md)
@@ -45,6 +47,8 @@
   * [Stellar: Account Viewer](wallets/browser-wallets/stellar-account-viewer.md)
   * [MetaMask: Ethereum](wallets/browser-wallets/metamask-ethereum.md)
   * [Yoroi-wallet: Cardano](wallets/browser-wallets/yoroi-wallet-cardano.md)
+  * [MyMonero: XMR](wallets/browser-wallets/mymonero-xmr.md)
+  * [TronLink: TRX](wallets/browser-wallets/tronlink-trx.md)
   * [ICONex: Icon](wallets/browser-wallets/iconex-icon.md)
 * [Guide: Crypto Wallet Tips 101 - Do's and Don'ts](wallets/guide-wallet-tips-101-dos-and-donts.md)
 * [Review: Metal Bitcoin Seed Storage by jlopp](https://jlopp.github.io/metal-bitcoin-storage-reviews/)
@@ -59,7 +63,8 @@
 * [Guide: How to setup a ETH 2.0 Node & Validator](https://prylabs.net/participate)
 * [Guide: How to setup a Lighthouse Validator](https://lighthouse-book.sigmaprime.io/intro.html)
 * [Guide: How to buy ETH](ethereum/guide-how-to-buy-eth.md)
-* [External Reading Material](ethereum/external-reading-material.md)
+* [External Reading Material](ethereum/external-reading-material/README.md)
+  * [Guide: Mastering Ethereum](ethereum/external-reading-material/guide-mastering-ethereum.md)
 
 ## Tezos
 
@@ -166,6 +171,9 @@
 * [Guide: How to mine Monero](monero/guide-how-to-mine-xmr.md)
 * [Create a XMR paper wallet](https://moneroaddress.org/)
 * [Guide: How to setup a Wallet](monero/guide-how-to-setup-a-wallet.md)
+* [External Reading Material](monero/external-reading-material/README.md)
+  * [Guide: Zero to Monero](monero/external-reading-material/guide-zero-to-monero.md)
+  * [Guide: Mastering Monero](monero/external-reading-material/guide-mastering-monero.md)
 
 ## Grin
 
@@ -202,7 +210,6 @@
 ## Telos
 
 * [Overview: TLOS](telos/overview-tlos.md)
-* [Guide: How to claim TLOS](telos/guide-how-to-claim-tlos.md)
 * [Guide: How to stake TLOS](telos/guide-how-to-stake-tlos.md)
 
 ## Stellar
@@ -218,4 +225,5 @@
 ## Bitcoin
 
 * [Overview: BTC](bitcoin/overview-btc.md)
+* [Guide: Mastering Bitcoin](bitcoin/guide-mastering-bitcoin.md)
 

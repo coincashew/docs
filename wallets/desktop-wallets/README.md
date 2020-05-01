@@ -22,3 +22,7 @@
 
 {% page-ref page="sync-vechain.md" %}
 
+{% page-ref page="sqrl-tlos.md" %}
+
+
+

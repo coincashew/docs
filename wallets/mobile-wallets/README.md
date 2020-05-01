@@ -24,5 +24,7 @@
 
 {% page-ref page="vechainthor-wallet-vet.md" %}
 
+{% page-ref page="tronwallet-trx.md" %}
+
 
 

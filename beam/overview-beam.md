@@ -31,3 +31,7 @@
 | CoinPaprika | [https://coinpaprika.com/coin/beam-beam/](https://coinpaprika.com/coin/beam-beam/) |
 | CoinMarketCap | [https://coinmarketcap.com/currencies/beam/](https://coinmarketcap.com/currencies/beam/) |
 
+## 💰 Wallets
+
+{% page-ref page="../wallets/desktop-wallets/beam.mw-beam.md" %}
+

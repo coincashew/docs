@@ -33,3 +33,7 @@
 | CoinPaprika | [https://coinpaprika.com/coin/kmd-komodo/](https://coinpaprika.com/coin/kmd-komodo/) |
 | CoinMarketCap | [https://coinmarketcap.com/currencies/komodo/](https://coinmarketcap.com/currencies/komodo/) |
 
+## 💰 Wallets
+
+{% page-ref page="../wallets/desktop-wallets/atomic-multi-currency.md" %}
+

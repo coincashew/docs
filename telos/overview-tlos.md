@@ -31,3 +31,9 @@
 | CoinPaprika | [https://coinpaprika.com/coin/tlos-telos/](https://coinpaprika.com/coin/tlos-telos/) |
 | CoinMarketCap | [https://coinmarketcap.com/currencies/telos/](https://coinmarketcap.com/currencies/telos/) |
 
+## 💰 Wallets
+
+{% page-ref page="../wallets/desktop-wallets/sqrl-tlos.md" %}
+
+{% page-ref page="../wallets/desktop-wallets/scatter-eos.md" %}
+

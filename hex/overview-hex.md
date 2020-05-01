@@ -40,3 +40,17 @@
 | CoinMarketCap | [https://coinmarketcap.com/currencies/hex/](https://coinmarketcap.com/currencies/hex/) |
 | CoinGecko | [https://www.coingecko.com/en/coins/hex](https://www.coingecko.com/en/coins/hex) |
 
+## 💰 Wallets
+
+{% page-ref page="../wallets/browser-wallets/metamask-ethereum.md" %}
+
+{% page-ref page="../wallets/hardware-wallets/ledger-live-ledger-nano-wallet/" %}
+
+{% page-ref page="../wallets/hardware-wallets/trezor.io-wallet/" %}
+
+{% page-ref page="../wallets/desktop-wallets/mycrypto-ethereum.md" %}
+
+{% page-ref page="../wallets/mobile-wallets/trustwallet-multi-currency.md" %}
+
+{% page-ref page="../wallets/mobile-wallets/enjin-multi-currency.md" %}
+

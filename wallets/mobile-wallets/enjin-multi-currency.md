@@ -4,7 +4,7 @@ description: >-
   gamers.
 ---
 
-# Enjin: Multi-currency
+# Enjin: Multi-chain assets
 
 ## 🚀 Official Website
 

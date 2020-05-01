@@ -30,3 +30,9 @@
 | CoinPaprika | [https://coinpaprika.com/coin/icx-icon/](https://coinpaprika.com/coin/icx-icon/) |
 | CoinMarketCap | [https://coinmarketcap.com/currencies/icon/](https://coinmarketcap.com/currencies/icon/) |
 
+## 💰 Wallets
+
+{% page-ref page="../wallets/browser-wallets/iconex-icon.md" %}
+
+{% page-ref page="../wallets/mobile-wallets/exodus-multi-chain-assets.md" %}
+

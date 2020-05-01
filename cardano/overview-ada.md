@@ -34,3 +34,7 @@
 | CoinMarketCap | [https://coinmarketcap.com/currencies/cardano/](https://coinmarketcap.com/currencies/cardano/) |
 | CoinGecko | [https://www.coingecko.com/en/coins/cardano](https://www.coingecko.com/en/coins/cardano) |
 
+## 💰 Wallets
+
+{% page-ref page="../wallets/browser-wallets/yoroi-wallet-cardano.md" %}
+

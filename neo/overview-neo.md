@@ -33,3 +33,7 @@
 | CoinPaprika | [https://coinpaprika.com/coin/neo-neo/](https://coinpaprika.com/coin/neo-neo/) |
 | CoinMarketCap | [https://coinmarketcap.com/currencies/neo/](https://coinmarketcap.com/currencies/neo/) |
 
+## 💰 Wallets
+
+{% page-ref page="../wallets/desktop-wallets/o3-neo-ont.md" %}
+

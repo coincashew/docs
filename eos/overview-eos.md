@@ -31,3 +31,7 @@
 | CoinPaprika | [https://coinpaprika.com/coin/eos-eos/](https://coinpaprika.com/coin/eos-eos/) |
 | CoinMarketCap | [https://coinmarketcap.com/currencies/eos/](https://coinmarketcap.com/currencies/eos/) |
 
+## 💰 Wallets
+
+{% page-ref page="../wallets/desktop-wallets/scatter-eos.md" %}
+

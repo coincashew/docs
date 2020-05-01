@@ -34,3 +34,7 @@
 | CoinPaprika | [https://coinpaprika.com/coin/grin-grin/](https://coinpaprika.com/coin/grin-grin/) |
 | CoinMarketCap | [https://coinmarketcap.com/currencies/grin/](https://coinmarketcap.com/currencies/grin/) |
 
+## 💰 Wallets
+
+{% page-ref page="../wallets/desktop-wallets/grin++-grin.md" %}
+

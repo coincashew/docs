@@ -32,3 +32,7 @@
 | CoinPaprika | [https://coinpaprika.com/coin/ont-ontology/](https://coinpaprika.com/coin/ont-ontology/) |
 | CoinMarketCap | [https://coinmarketcap.com/currencies/ontology/](https://coinmarketcap.com/currencies/ontology/) |
 
+## 💰 Wallets
+
+{% page-ref page="../wallets/desktop-wallets/o3-neo-ont.md" %}
+

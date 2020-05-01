@@ -34,3 +34,15 @@
 | CoinPaprika | [https://coinpaprika.com/coin/xlm-stellar/](https://coinpaprika.com/coin/xlm-stellar/) |
 | CoinMarketCap | [https://coinmarketcap.com/currencies/stellar/](https://coinmarketcap.com/currencies/stellar/) |
 
+## 💰 Wallets
+
+{% page-ref page="../wallets/hardware-wallets/ledger-live-ledger-nano-wallet/" %}
+
+{% page-ref page="../wallets/mobile-wallets/exodus-multi-chain-assets.md" %}
+
+{% page-ref page="../wallets/browser-wallets/stellar-account-viewer.md" %}
+
+{% page-ref page="../wallets/desktop-wallets/solar-stellar.md" %}
+
+
+

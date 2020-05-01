@@ -18,6 +18,8 @@
 
 {% page-ref page="../wallets/mobile-wallets/exodus-multi-chain-assets.md" %}
 
+{% page-ref page="../wallets/browser-wallets/mymonero-xmr.md" %}
+
 ## ⛏ 3. Install mining software
 
 ### CPU & GPU Mining software: xmrig

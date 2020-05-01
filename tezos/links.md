@@ -56,3 +56,11 @@
 | Coinpaprika | [https://coinpaprika.com/coin/xtz-tezos/](https://coinpaprika.com/coin/xtz-tezos/) |
 | Cryptocompare | [https://www.cryptocompare.com/coins/xtz/overview](https://www.cryptocompare.com/coins/xtz/overview) |
 
+## 💰 Wallets
+
+{% page-ref page="../wallets/desktop-wallets/galleon-tezos.md" %}
+
+{% page-ref page="../wallets/hardware-wallets/ledger-live-ledger-nano-wallet/" %}
+
+{% page-ref page="../wallets/mobile-wallets/trustwallet-multi-currency.md" %}
+

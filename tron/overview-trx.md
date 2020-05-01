@@ -34,3 +34,17 @@
 | CoinPaprika | [https://coinpaprika.com/coin/trx-tron/](https://coinpaprika.com/coin/trx-tron/) |
 | CoinMarketCap | [https://coinmarketcap.com/currencies/tron/](https://coinmarketcap.com/currencies/tron/) |
 
+## 💰 Wallets
+
+{% page-ref page="../wallets/browser-wallets/tronlink-trx.md" %}
+
+{% page-ref page="../wallets/mobile-wallets/tronwallet-trx.md" %}
+
+{% page-ref page="../wallets/mobile-wallets/exodus-multi-chain-assets.md" %}
+
+{% page-ref page="../wallets/hardware-wallets/ledger-live-ledger-nano-wallet/" %}
+
+{% page-ref page="../wallets/mobile-wallets/trustwallet-multi-currency.md" %}
+
+
+

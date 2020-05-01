@@ -8,3 +8,9 @@
 
 {% page-ref page="stellar-account-viewer.md" %}
 
+{% page-ref page="tronlink-trx.md" %}
+
+{% page-ref page="mymonero-xmr.md" %}
+
+
+

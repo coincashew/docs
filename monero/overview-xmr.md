@@ -34,3 +34,17 @@
 | CoinPaprika | [https://coinpaprika.com/coin/xmr-monero/](https://coinpaprika.com/coin/xmr-monero/) |
 | CoinMarketCap | [https://coinmarketcap.com/currencies/monero/](https://coinmarketcap.com/currencies/monero/) |
 
+## 💰 Wallets
+
+{% page-ref page="../wallets/browser-wallets/mymonero-xmr.md" %}
+
+{% page-ref page="../wallets/desktop-wallets/monero-official-gui.md" %}
+
+{% page-ref page="../wallets/mobile-wallets/monerujo-monero.md" %}
+
+{% page-ref page="../wallets/mobile-wallets/cakewallet-monero.md" %}
+
+{% page-ref page="../wallets/mobile-wallets/exodus-multi-chain-assets.md" %}
+
+{% page-ref page="../wallets/mobile-wallets/coinomi-multi-chain-assets.md" %}
+

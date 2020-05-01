@@ -35,3 +35,21 @@
 | CoinPaprika | [https://coinpaprika.com/coin/bch-bitcoin-cash/](https://coinpaprika.com/coin/bch-bitcoin-cash/) |
 | CoinMarketCap | [https://coinmarketcap.com/currencies/bitcoin-cash/](https://coinmarketcap.com/currencies/bitcoin-cash/) |
 
+## 💰 Wallets
+
+{% page-ref page="../wallets/mobile-wallets/exodus-multi-chain-assets.md" %}
+
+{% page-ref page="../wallets/mobile-wallets/coinomi-multi-chain-assets.md" %}
+
+{% page-ref page="../wallets/desktop-wallets/atomic-multi-currency.md" %}
+
+{% page-ref page="../wallets/hardware-wallets/ledger-live-ledger-nano-wallet/" %}
+
+{% page-ref page="../wallets/hardware-wallets/trezor.io-wallet/" %}
+
+{% page-ref page="../wallets/mobile-wallets/bitcoin.com-wallet-bch.md" %}
+
+{% page-ref page="../wallets/mobile-wallets/enjin-multi-currency.md" %}
+
+{% page-ref page="../wallets/mobile-wallets/trustwallet-multi-currency.md" %}
+

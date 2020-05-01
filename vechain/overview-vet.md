@@ -32,3 +32,9 @@
 | CoinPaprika | [https://coinpaprika.com/coin/vet-vechain/](https://coinpaprika.com/coin/vet-vechain/) |
 | CoinMarketCap | [https://coinmarketcap.com/currencies/vechain/](https://coinmarketcap.com/currencies/vechain/) |
 
+## 💰 Wallets
+
+{% page-ref page="../wallets/mobile-wallets/vechainthor-wallet-vet.md" %}
+
+{% page-ref page="../wallets/desktop-wallets/sync-vechain.md" %}
+

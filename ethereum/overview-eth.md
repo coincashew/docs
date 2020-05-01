@@ -35,3 +35,33 @@
 | CoinGecko | [https://www.coingecko.com/en/coins/ethereum](https://www.coingecko.com/en/coins/ethereum) |
 | LiveCoinWatch | [https://www.livecoinwatch.com/price/Ethereum-ETH](https://www.livecoinwatch.com/price/Ethereum-ETH) |
 
+## 💰 Wallets
+
+{% page-ref page="../wallets/desktop-wallets/mycrypto-ethereum.md" %}
+
+{% page-ref page="../wallets/browser-wallets/metamask-ethereum.md" %}
+
+{% page-ref page="../wallets/mobile-wallets/exodus-multi-chain-assets.md" %}
+
+{% page-ref page="../wallets/mobile-wallets/coinomi-multi-chain-assets.md" %}
+
+{% page-ref page="../wallets/desktop-wallets/atomic-multi-currency.md" %}
+
+{% page-ref page="../wallets/hardware-wallets/ledger-live-ledger-nano-wallet/" %}
+
+{% page-ref page="../wallets/hardware-wallets/trezor.io-wallet/" %}
+
+{% page-ref page="../wallets/hardware-wallets/keepkey-wallet/" %}
+
+{% page-ref page="../wallets/mobile-wallets/argent-ethereum.md" %}
+
+{% page-ref page="../wallets/mobile-wallets/status-ethereum.md" %}
+
+{% page-ref page="../wallets/mobile-wallets/pillar-ethereum-btc.md" %}
+
+{% page-ref page="overview-eth.md" %}
+
+{% page-ref page="../wallets/mobile-wallets/enjin-multi-currency.md" %}
+
+{% page-ref page="../wallets/mobile-wallets/trustwallet-multi-currency.md" %}
+

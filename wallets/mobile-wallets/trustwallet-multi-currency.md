@@ -2,7 +2,7 @@
 description: Secure Crypto Wallet for Android and iOS by Binance
 ---
 
-# TrustWallet: Multi-currency
+# TrustWallet: Multi-chain assets
 
 ## 🚀 Official Website
 
