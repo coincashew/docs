@@ -46,6 +46,7 @@
 * [Browser Wallets](wallets/browser-wallets/README.md)
   * [Stellar: Account Viewer](wallets/browser-wallets/stellar-account-viewer.md)
   * [MetaMask: Ethereum](wallets/browser-wallets/metamask-ethereum.md)
+  * [Bloks.io: EOS](wallets/browser-wallets/bloks.io-eos.md)
   * [Yoroi-wallet: Cardano](wallets/browser-wallets/yoroi-wallet-cardano.md)
   * [MyMonero: XMR](wallets/browser-wallets/mymonero-xmr.md)
   * [TronLink: TRX](wallets/browser-wallets/tronlink-trx.md)

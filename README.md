@@ -46,6 +46,78 @@
 
 {% page-ref page="grin/guide-how-to-mine-grin.md" %}
 {% endtab %}
+
+{% tab title="Learn" %}
+{% page-ref page="wallets/guide-wallet-tips-101-dos-and-donts.md" %}
+
+{% page-ref page="exchanges/guide-where-to-get-crypto.md" %}
+
+{% page-ref page="ethereum/overview-eth.md" %}
+
+{% page-ref page="tezos/links.md" %}
+
+{% page-ref page="cardano/overview-ada.md" %}
+
+{% page-ref page="eos/overview-eos.md" %}
+
+{% page-ref page="icon/overview-icx.md" %}
+
+{% page-ref page="hex/overview-hex.md" %}
+
+{% page-ref page="bitcoin/overview-btc.md" %}
+
+{% page-ref page="edgeware/overview-edg.md" %}
+
+{% page-ref page="komodo/overview-kmd.md" %}
+
+{% page-ref page="zcoin/overview-xzc.md" %}
+
+{% page-ref page="cosmos/overview-atom.md" %}
+
+{% page-ref page="synthetix/overview-snx.md" %}
+
+{% page-ref page="decred/overview-dcr.md" %}
+
+{% page-ref page="livepeer/overview-lpt.md" %}
+
+{% page-ref page="neo/overview-neo.md" %}
+
+{% page-ref page="ontology/overview-ont.md" %}
+
+{% page-ref page="vechain/overview-vet.md" %}
+
+{% page-ref page="bitcoin-cash/overview-bch.md" %}
+
+{% page-ref page="monero/overview-xmr.md" %}
+
+{% page-ref page="grin/overview-grin.md" %}
+
+{% page-ref page="beam/overview-beam.md" %}
+
+{% page-ref page="binance-coin/overview-bnb.md" %}
+
+{% page-ref page="waves/overview-waves.md" %}
+
+{% page-ref page="theta/overview-theta.md" %}
+
+{% page-ref page="litecoin/overview-ltc.md" %}
+
+{% page-ref page="telos/overview-tlos.md" %}
+
+{% page-ref page="stellar/overview-xlm.md" %}
+
+{% page-ref page="tron/overview-trx.md" %}
+{% endtab %}
+
+{% tab title="Get a Wallet" %}
+{% page-ref page="wallets/mobile-wallets/" %}
+
+{% page-ref page="wallets/desktop-wallets/" %}
+
+{% page-ref page="wallets/hardware-wallets/" %}
+
+{% page-ref page="wallets/browser-wallets/" %}
+{% endtab %}
 {% endtabs %}
 
 ## 😋 Blazingly helpful

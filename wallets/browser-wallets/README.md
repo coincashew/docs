@@ -12,5 +12,7 @@
 
 {% page-ref page="mymonero-xmr.md" %}
 
+{% page-ref page="bloks.io-eos.md" %}
+
 
 

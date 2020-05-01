@@ -35,3 +35,5 @@
 
 {% page-ref page="../wallets/desktop-wallets/scatter-eos.md" %}
 
+{% page-ref page="../wallets/browser-wallets/bloks.io-eos.md" %}
+
