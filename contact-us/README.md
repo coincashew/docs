@@ -1,8 +1,8 @@
----
-description: Keep in touch!
----
-
 # About Us
+
+## 👋 Howdy!
+
+Every guide, tip, and review written on CoinCashew was written by someone who wanted to share and help build a better world for everybody. We hope you to see you soon again and keep spreading the knowledge.
 
 ## 🚀 Social Links
 
@@ -12,5 +12,5 @@ description: Keep in touch!
 
 ## 🔥 Want to contribute?
 
-Submit a PR on github, or reach out on twitter.
+Submit a PR on github.com, or reach out on twitter.
 

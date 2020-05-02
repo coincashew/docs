@@ -1,4 +1,4 @@
-# 7. Tips, Tricks and Other Commands
+# 8. Tips, Tricks and Other Commands
 
 ## 🗝 Backup your keys
 

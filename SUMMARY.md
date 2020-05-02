@@ -4,6 +4,9 @@
 * [About Us](contact-us/README.md)
   * [Donations](contact-us/donations.md)
   * [Disclaimer](contact-us/disclaimer.md)
+* [Coins](coin-listing.md)
+* [Wallets](wallets-1.md)
+* [Exchanges](exchanges-1.md)
 
 ## Wallets
 
@@ -69,7 +72,7 @@
 
 ## Tezos
 
-* [Overview: XTZ](tezos/links.md)
+* [Overview: XTZ](tezos/overview-xtz.md)
 * [Guide: How to stake XTZ](tezos/guide-how-to-stake-xtz.md)
 * [Guide: How to setup a Baker](tezos/guide-how-to-setup-a-baker/README.md)
   * [1. Requirements](tezos/guide-how-to-setup-a-baker/requirements.md)
@@ -77,8 +80,9 @@
   * [3. Install a Tezos Node](tezos/guide-how-to-setup-a-baker/install-a-tezos-node.md)
   * [4. Configure Ledger Nano S](tezos/guide-how-to-setup-a-baker/configure-ledger-nano-s.md)
   * [5. Start the baker](tezos/guide-how-to-setup-a-baker/start-the-baker.md)
-  * [6. Updating a node](tezos/guide-how-to-setup-a-baker/updating-a-node.md)
-  * [7. Tips, Tricks and Other Commands](tezos/guide-how-to-setup-a-baker/tips-and-tricks.md)
+  * [6. Auto-start and monitoring](tezos/guide-how-to-setup-a-baker/monitoring-and-autostart.md)
+  * [7. Updating a node](tezos/guide-how-to-setup-a-baker/updating-a-node.md)
+  * [8. Tips, Tricks and Other Commands](tezos/guide-how-to-setup-a-baker/tips-and-tricks.md)
 * [Guide: How to buy Tezos](tezos/guide-how-to-buy-tezos.md)
 * [External Reading Material](tezos/external-reading-material.md)
 
@@ -164,14 +168,12 @@
 * [Overview: BCH](bitcoin-cash/overview-bch.md)
 * [Create a BCH paper wallet](https://paperwallet.bitcoin.com/cashwallet.html)
 * [Guide: How to use FlipStarter](https://read.cash/@flipstarter/how-to-support-a-flipstarter-campaign-f27240d9)
-* [Guide: How to setup a Wallet](bitcoin-cash/untitled.md)
 
 ## Monero
 
 * [Overview: XMR](monero/overview-xmr.md)
 * [Guide: How to mine Monero](monero/guide-how-to-mine-xmr.md)
 * [Create a XMR paper wallet](https://moneroaddress.org/)
-* [Guide: How to setup a Wallet](monero/guide-how-to-setup-a-wallet.md)
 * [External Reading Material](monero/external-reading-material/README.md)
   * [Guide: Zero to Monero](monero/external-reading-material/guide-zero-to-monero.md)
   * [Guide: Mastering Monero](monero/external-reading-material/guide-mastering-monero.md)
@@ -180,7 +182,6 @@
 
 * [Overview: GRIN](grin/overview-grin.md)
 * [Guide: How to mine GRIN](grin/guide-how-to-mine-grin.md)
-* [Guide: How to setup a Wallet](grin/guide-how-to-setup-a-wallet.md)
 
 ## Beam
 
@@ -206,7 +207,6 @@
 
 * [Overview: LTC](litecoin/overview-ltc.md)
 * [Create a LTC paper wallet](https://liteaddress.org/)
-* [Guide: How to setup a Wallet](litecoin/guide-how-to-setup-a-wallet.md)
 
 ## Telos
 
@@ -216,7 +216,6 @@
 ## Stellar
 
 * [Overview: XLM](stellar/overview-xlm.md)
-* [Guide: How to setup a Wallet](stellar/guide-how-to-setup-a-wallet.md)
 
 ## TRON
 

@@ -1,4 +1,4 @@
-# 6. Updating a node
+# 7. Updating a node
 
 ## 📡 1. How to perform an update
 
@@ -23,7 +23,7 @@ git checkout mainnet && git pull && make build-deps && eval $(opam env) && make
 ```
 
 {% hint style="danger" %}
-Stop your node by Ctrl-C. If you stop your node first, then baker, accuser and endorser will automatically stop.
+Stop your node by Ctrl-C. If you stop your node first, then baker, accuser and endorser will automatically stop. Or, if you're using auto-start scripts with systemd, use the command `sudo systemctl stop tezos-node.service`
 {% endhint %}
 
 The following commands will quickly switch-over to your newly built Tezos binaries while keeping the old directory for backup.
@@ -64,9 +64,54 @@ For example, you would expect to run 7 binaries
 After the future protocol`"007"`activates on a later date, you can stop the previous binaries. In this example, you would stop all the`006` binaries.
 {% endhint %}
 
-## 🤯 3. In case of problems
+## ✔ 3. Update auto-start and monitoring systemctl configs
 
-### 🛣 3.1 Forked off
+First, stop all tezos services and ensure the services are truly stopped.
+
+```text
+sudo systemctl stop tezos-node.service
+sudo systemctl status 'tezos-*.service'
+```
+
+You need to update the binaries names for the `ExecStart` variable. The path must reflect the new binaries.
+
+The files to update are:
+
+* /etc/systemd/system/tezos-node.service
+* /etc/systemd/system/tezos-endorser.service
+* /etc/systemd/system/tezos-baker.service
+* /etc/systemd/system/tezos-accuser.service
+
+```text
+#Example, change "tezos-endorser-006-PsCARTHA"
+ExecStart       = /home/replaceUsername/tezos-endorser-006-PsCARTHA run ledger_mybaker
+```
+
+{% hint style="info" %}
+Typically you only need to update 3 filenames: the endorser, baker, and accuser filename.
+{% endhint %}
+
+Now reload the new config with the following command:
+
+```text
+systemctl --user daemon-reload
+```
+
+And restart services,
+
+```text
+sudo systemctl reload-or-restart tezos-node.service
+```
+
+Verify the node, baker, endorser, accuser processes are all running.
+
+```text
+sudo systemctl status 'tezos-*.service'
+```
+
+## 🤯 4. In case of problems
+
+### 🛣 4.1 Forked off
 
 Forget to update your node and now your node is stuck on an old chain?
 
@@ -76,7 +121,7 @@ Run this command to resume validating blocks.
 ./tezos-admin-client unmark all invalid blocks
 ```
 
-### 📂 3.2 Roll back to previous version from backup
+### 📂 4.2 Roll back to previous version from backup
 
 Following the above guide, you can simply restore the old Tezos directory.
 
@@ -87,7 +132,7 @@ mv tezos/ tezos-rolled-back/
 mv tezos-old/ tezos/
 ```
 
-### 🤖 3.3 Last resort: Rebuild from source code
+### 🤖 4.3 Last resort: Rebuild from source code
 
 Complete section `2. Getting and building Tezos from source` from the following guide.
 

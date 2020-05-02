@@ -4,6 +4,7 @@ description: 'By visiting this website, CoinCashew, you agree to the following t
 
 # Disclaimer
 
+{% hint style="warning" %}
 Education is your best investment. 
 
 Pricing can be volatile. 
@@ -23,4 +24,5 @@ This site might contain copyrighted material the use of which has not always bee
 All views expressed on this site are the authors and do not represent the opinions of any entity whatsoever which have been, am now, or will be affiliated.
 
 Please do your own due diligence.
+{% endhint %}
 
