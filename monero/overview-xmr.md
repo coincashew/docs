@@ -1,6 +1,6 @@
 # Overview: XMR
 
-## 🚀 General Data
+## ![](../.gitbook/assets/xmr.png) General Data
 
 | Site | Title |
 | :--- | :--- |

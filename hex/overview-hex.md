@@ -1,6 +1,6 @@
 # Overview: HEX
 
-## 🔥 General Data
+## ![](../.gitbook/assets/hex.png) General Data
 
 | Site | Title |
 | :--- | :--- |

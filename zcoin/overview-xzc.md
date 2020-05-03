@@ -1,6 +1,6 @@
 # Overview: XZC
 
-## 🚀 General Data
+## ![](../.gitbook/assets/xzc.png) General Data
 
 | Site | Title |
 | :--- | :--- |

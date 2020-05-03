@@ -1,6 +1,6 @@
 # Overview: XTZ
 
-## ⭐ General Data
+## ![](../.gitbook/assets/xtz.png) General Data
 
 | Site | Title |
 | :--- | :--- |

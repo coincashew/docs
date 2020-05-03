@@ -1,6 +1,6 @@
 # Overview: ICX
 
-## 🚀 General Data
+## ![](../.gitbook/assets/icx.png) General Data
 
 | Site | Title |
 | :--- | :--- |

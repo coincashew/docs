@@ -1,6 +1,6 @@
 # Overview: ATOM
 
-## 🚀 General Data
+## ![](../.gitbook/assets/atom.png) General Data
 
 | Site | Title |
 | :--- | :--- |

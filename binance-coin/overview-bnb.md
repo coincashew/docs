@@ -1,6 +1,6 @@
 # Overview: BNB
 
-## 🚀 General Data
+## ![](../.gitbook/assets/bnb.png) General Data
 
 | Site | Title |
 | :--- | :--- |

@@ -1,6 +1,6 @@
 # Overview: GRIN
 
-## 🚀 General Data
+## ![](../.gitbook/assets/grin.png) General Data
 
 | Site | Title |
 | :--- | :--- |

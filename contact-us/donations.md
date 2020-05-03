@@ -1,7 +1,7 @@
 # Donations
 
 {% hint style="info" %}
-No donations are expected. If you feel you want to, please see below. Thanks!
+No donations are expected. If you feel you want to, please see below. Thanks! 🙏 
 {% endhint %}
 
 {% tabs %}

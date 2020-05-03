@@ -134,7 +134,5 @@ mv tezos-old/ tezos/
 
 ### 🤖 4.3 Last resort: Rebuild from source code
 
-Complete section `2. Getting and building Tezos from source` from the following guide.
-
-{% page-ref page="install-a-tezos-node.md" %}
+Follow the steps in section [`2. Getting and building Tezos from source`](install-a-tezos-node.md#2-getting-and-building-tezos-from-source)
 

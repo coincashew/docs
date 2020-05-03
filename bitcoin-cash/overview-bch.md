@@ -1,6 +1,6 @@
 # Overview: BCH
 
-## 🚀 General Data
+## ![](../.gitbook/assets/bch.png) General Data
 
 | Site | Title |
 | :--- | :--- |

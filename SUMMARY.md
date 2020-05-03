@@ -2,6 +2,9 @@
 
 * [Home](README.md)
 * [About Us](contact-us/README.md)
+  * [Contributing](contact-us/contributing/README.md)
+    * [Contributor Covenant Code of Conduct](contact-us/contributing/contributor-covenant-code-of-conduct.md)
+    * [Style Guide](contact-us/contributing/style-guide.md)
   * [Donations](contact-us/donations.md)
   * [Disclaimer](contact-us/disclaimer.md)
 * [Coins](coin-listing.md)
@@ -59,7 +62,23 @@
 
 ## Exchanges
 
+* [Exchange Directory](exchanges/exchange-directory.md)
 * [Guide: Where to get Crypto](exchanges/guide-where-to-get-crypto.md)
+
+## DeFi
+
+* [Overview: DeFi](defi/overview-defi.md)
+* [External Reading Material](defi/external-reading-material.md)
+* [Guides: How to DeFi](defi/guides-how-to-defi/README.md)
+  * [Sablier: How to stream payments](defi/guides-how-to-defi/sablier-how-to-stream-payments.md)
+  * [dYdX: How to margin trade](defi/guides-how-to-defi/dydx-how-to-margin-trade.md)
+  * [Augur.net: How to use Prediction Markets](defi/guides-how-to-defi/augur.net-how-to-use-prediction-markets.md)
+  * [Compound.finance: How to earn interest on crypto](defi/guides-how-to-defi/compound.finance-how-to-earn-interest-on-crypto.md)
+  * [Synthetix.io: How to create Synthetic Assets](defi/guides-how-to-defi/how-to-create-synthetix-assets.md)
+  * [Uniswap.io: How to trade on a DEX](defi/guides-how-to-defi/uniswap.io-how-to-trade-on-a-dex.md)
+  * [Uniswap.io: How to earn returns as a Liquidity Provider](defi/guides-how-to-defi/uniswap.io-how-to-earn-returns-as-a-liquidity-provider.md)
+  * [Makerdao.com: How to mint DAI](defi/guides-how-to-defi/makerdao.com-how-to-mint-dai.md)
+  * [PoolTogether.com: How to play the no-loss lottery](defi/guides-how-to-defi/pooltogether.com-how-to-play-the-no-loss-lottery.md)
 
 ## Ethereum
 
@@ -98,6 +117,13 @@
 
 * [Overview: EOS](eos/overview-eos.md)
 * [Guide: How to stake EOS](eos/guide-how-to-stake-eos.md)
+
+## Bitcoin Cash
+
+* [Overview: BCH](bitcoin-cash/overview-bch.md)
+* [Create a BCH paper wallet](https://paperwallet.bitcoin.com/cashwallet.html)
+* [Guide: How to use FlipStarter](https://read.cash/@flipstarter/how-to-support-a-flipstarter-campaign-f27240d9)
+* [External Reading Material](bitcoin-cash/external-reading-material.md)
 
 ## ICON
 
@@ -163,12 +189,6 @@
 * [Overview: VET](vechain/overview-vet.md)
 * [Guide: How to stake VET](vechain/guide-how-to-stake-vet.md)
 
-## Bitcoin Cash
-
-* [Overview: BCH](bitcoin-cash/overview-bch.md)
-* [Create a BCH paper wallet](https://paperwallet.bitcoin.com/cashwallet.html)
-* [Guide: How to use FlipStarter](https://read.cash/@flipstarter/how-to-support-a-flipstarter-campaign-f27240d9)
-
 ## Monero
 
 * [Overview: XMR](monero/overview-xmr.md)
@@ -225,5 +245,5 @@
 ## Bitcoin
 
 * [Overview: BTC](bitcoin/overview-btc.md)
-* [Guide: Mastering Bitcoin](bitcoin/guide-mastering-bitcoin.md)
+* [Book: Mastering Bitcoin](bitcoin/book-mastering-bitcoin.md)
 

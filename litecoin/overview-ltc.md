@@ -1,6 +1,6 @@
 # Overview: LTC
 
-## 🚀 General Data
+## ![](../.gitbook/assets/ltc.png) General Data
 
 | Site | Title |
 | :--- | :--- |

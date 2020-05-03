@@ -1,6 +1,6 @@
 # Overview: THETA
 
-## 🚀 General Data
+## ![](../.gitbook/assets/theta.png) General Data
 
 | Site | Title |
 | :--- | :--- |

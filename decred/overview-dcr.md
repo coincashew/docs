@@ -1,6 +1,6 @@
 # Overview: DCR
 
-## 🚀 General Data
+## ![](../.gitbook/assets/dcr.png) General Data
 
 | Site | Title |
 | :--- | :--- |

@@ -1,6 +1,6 @@
 # Overview: LPT
 
-## 🚀 General Data
+## ![](../.gitbook/assets/lpt.png) General Data
 
 | Site | Title |
 | :--- | :--- |

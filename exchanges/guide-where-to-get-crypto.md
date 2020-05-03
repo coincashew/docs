@@ -6,11 +6,11 @@
 This guide is for you.
 {% endhint %}
 
-## 🔥 Choose the tab that best describes you...
+## ![](../.gitbook/assets/btc.png) Choose the tab that best describes you...
 
 {% tabs %}
 {% tab title="I already have crypto" %}
-## Centralized Exchanges
+## 🏢 Centralized Exchanges
 
 | Site | Location | KYC Required? |
 | :--- | :--- | :--- |
@@ -26,7 +26,7 @@ This guide is for you.
 | [Gate.io](https://www.gate.io/trade/xtz_usdt) | USA | Yes |
 | [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-XTZ) | USA | Yes |
 
-## Coin Swap Services - No Registration Required
+## 🔀 Coin Swap Services - No Registration Required
 
 | Site | Comments |
 | :--- | :--- |
@@ -39,7 +39,7 @@ This guide is for you.
 | [changehero.io](https://changehero.io) | Instant cryptocurrency exchange |
 | [FixedFloat.com](https://fixedfloat.com) | Lightning cryptocurrency exchange |
 
-## Decentralized Exchanges - No Registration Required
+## 🌌 Decentralized Exchanges - No Registration Required
 
 | Site | Comments | Coins |
 | :--- | :--- | :--- |
@@ -55,7 +55,7 @@ This guide is for you.
 {% endtab %}
 
 {% tab title="I have fiat money" %}
-## Peer-to-Peer Exchanges
+## 👩👧👦 Peer-to-Peer Exchanges
 
 | Site | Comments |
 | :--- | :--- |
@@ -67,13 +67,13 @@ This guide is for you.
 | [Paxful.com](https://paxful.com) | Peer-to-peer marketplace to buy and sell bitcoin with 300+ payment methods. |
 | [LocalCoinSwap.com](https://localcoinswap.com) | P2P crypto exchange that's safe and instant. Buy & sell using 250+ payment methods, with no KYC |
 
-## Cryptocurrency ATM
+## 🏧 Cryptocurrency ATM
 
 {% hint style="success" %}
 [Coin ATM Radar](https://coinatmradar.com) - Find where to buy or sell crypto with an ATM
 {% endhint %}
 
-## Centralized Exchanges
+## 🏢 Centralized Exchanges
 
 | Site |
 | :--- |

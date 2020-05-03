@@ -78,7 +78,7 @@
 
 ## 🎯 Be the contributor, the builder.
 
-Perhaps you wrote your own guide? Scale, share, and amplify your knowledge. Your pull request contributions are welcome on GitHub!
+Perhaps you wrote your own guide? Scale, share, and amplify your knowledge. [Your pull request contributions are welcome on GitHub!](contact-us/contributing/)
 
 {% hint style="success" %}
 Accelerating the adoption of crypto! Yes, you are. 

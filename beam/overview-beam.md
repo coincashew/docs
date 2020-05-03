@@ -1,6 +1,6 @@
 # Overview: BEAM
 
-## 🚀 General Data
+## ![](../.gitbook/assets/beam.png) General Data
 
 | Site | Title |
 | :--- | :--- |

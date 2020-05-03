@@ -1,6 +1,6 @@
 # Overview: TRX
 
-## 🚀 General Data
+## ![](../.gitbook/assets/trx.png) General Data
 
 | Site | Title |
 | :--- | :--- |

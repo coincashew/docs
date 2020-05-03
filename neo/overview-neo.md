@@ -1,6 +1,6 @@
 # Overview: NEO
 
-## 🚀 General Data
+## ![](../.gitbook/assets/neo.png) General Data
 
 | Site | Title |
 | :--- | :--- |

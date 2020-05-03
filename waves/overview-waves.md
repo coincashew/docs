@@ -1,6 +1,6 @@
 # Overview: WAVES
 
-## 🚀 General Data
+## ![](../.gitbook/assets/waves.png) General Data
 
 | Site | Title |
 | :--- | :--- |

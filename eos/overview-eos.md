@@ -1,6 +1,6 @@
 # Overview: EOS
 
-## 🚀 General Data
+## ![](../.gitbook/assets/eos.png) General Data
 
 | Site | Title |
 | :--- | :--- |

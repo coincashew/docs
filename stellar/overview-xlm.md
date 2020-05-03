@@ -1,6 +1,6 @@
 # Overview: XLM
 
-## 🚀 General Data
+## ![](../.gitbook/assets/xlm.png) General Data
 
 | Site | Title |
 | :--- | :--- |

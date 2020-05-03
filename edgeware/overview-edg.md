@@ -1,6 +1,6 @@
 # Overview: EDG
 
-## 🚀 General Data
+## ![](../.gitbook/assets/edg.png) General Data
 
 | Site | Title |
 | :--- | :--- |

@@ -1,6 +1,6 @@
 # Overview: SNX
 
-## 🚀 General Data
+## ![](../.gitbook/assets/snx.png) General Data
 
 | Site | Title |
 | :--- | :--- |
