@@ -160,7 +160,7 @@
 
 {% embed url="https://gitcoin.co/" %}
 
-{% embed url="https://localcryptos.com/r/defiprime" %}
+{% embed url="https://localcryptos.com/" %}
 
 {% embed url="https://openbazaar.org/" %}
 

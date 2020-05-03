@@ -87,7 +87,7 @@
 * [Guide: How to setup a Lighthouse Validator](https://lighthouse-book.sigmaprime.io/intro.html)
 * [Guide: How to buy ETH](ethereum/guide-how-to-buy-eth.md)
 * [External Reading Material](ethereum/external-reading-material/README.md)
-  * [Guide: Mastering Ethereum](ethereum/external-reading-material/guide-mastering-ethereum.md)
+  * [Book: Mastering Ethereum](ethereum/external-reading-material/book-mastering-ethereum.md)
 
 ## Tezos
 
@@ -196,7 +196,7 @@
 * [Create a XMR paper wallet](https://moneroaddress.org/)
 * [External Reading Material](monero/external-reading-material/README.md)
   * [Guide: Zero to Monero](monero/external-reading-material/guide-zero-to-monero.md)
-  * [Guide: Mastering Monero](monero/external-reading-material/guide-mastering-monero.md)
+  * [Book: Mastering Monero](monero/external-reading-material/book-mastering-monero.md)
 
 ## Grin
 
