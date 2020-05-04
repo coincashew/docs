@@ -8,3 +8,7 @@
 
 {% page-ref page="wallets/browser-wallets/" %}
 
+{% hint style="info" %}
+Choose a wallet depending on where you will use it.
+{% endhint %}
+

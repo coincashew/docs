@@ -12,27 +12,27 @@
 
 {% tabs %}
 {% tab title="Stake Coins" %}
-{% page-ref page="tezos/guide-how-to-stake-xtz.md" %}
+{% page-ref page="coins/overview-xtz/guide-how-to-stake-xtz.md" %}
 
-{% page-ref page="neo/guide-how-to-stake-neo.md" %}
+{% page-ref page="coins/overview-neo/guide-how-to-stake-neo.md" %}
 
-{% page-ref page="cardano/guide-how-to-stake-ada.md" %}
+{% page-ref page="coins/overview-ada/guide-how-to-stake-ada.md" %}
 
-{% page-ref page="hex/guide-how-to-stake-hex.md" %}
+{% page-ref page="coins/overview-hex/guide-how-to-stake-hex.md" %}
 
-{% page-ref page="eos/guide-how-to-stake-eos.md" %}
+{% page-ref page="coins/overview-eos/guide-how-to-stake-eos.md" %}
 
-{% page-ref page="icon/guide-how-to-stake-icx.md" %}
+{% page-ref page="coins/overview-icx/guide-how-to-stake-icx.md" %}
 
-{% page-ref page="vechain/guide-how-to-stake-vet.md" %}
+{% page-ref page="coins/overview-vet/guide-how-to-stake-vet.md" %}
 
-{% page-ref page="neo/guide-how-to-stake-neo.md" %}
+{% page-ref page="coins/overview-neo/guide-how-to-stake-neo.md" %}
 
-{% page-ref page="telos/guide-how-to-stake-tlos.md" %}
+{% page-ref page="coins/overview-tlos/guide-how-to-stake-tlos.md" %}
 
-{% page-ref page="ontology/guide-how-to-stake-ont.md" %}
+{% page-ref page="coins/overview-ont/guide-how-to-stake-ont.md" %}
 
-{% page-ref page="tron/guide-how-to-stake-trx.md" %}
+{% page-ref page="coins/overview-trx/guide-how-to-stake-trx.md" %}
 {% endtab %}
 
 {% tab title="Get Crypto" %}
@@ -40,11 +40,11 @@
 {% endtab %}
 
 {% tab title="Mine" %}
-{% page-ref page="monero/guide-how-to-mine-xmr.md" %}
+{% page-ref page="coins/overview-xmr/guide-how-to-mine-xmr.md" %}
 
-{% page-ref page="beam/guide-how-to-mine-beam.md" %}
+{% page-ref page="coins/overview-beam/guide-how-to-mine-beam.md" %}
 
-{% page-ref page="grin/guide-how-to-mine-grin.md" %}
+{% page-ref page="coins/overview-grin/guide-how-to-mine-grin.md" %}
 {% endtab %}
 
 {% tab title="Learn" %}
@@ -55,6 +55,8 @@
 {% page-ref page="coin-listing.md" %}
 
 {% page-ref page="wallets-1.md" %}
+
+{% page-ref page="exchanges-1.md" %}
 {% endtab %}
 
 {% tab title="Get a Wallet" %}
@@ -68,7 +70,7 @@
 {% endtab %}
 {% endtabs %}
 
-## 😋 Blazingly helpful
+## 🤖 Blazingly helpful
 
 > "CoinCashew was like the expert crypto mentor I never knew I needed. Saved me so much time and money!" -- TheRealSatoshi
 
