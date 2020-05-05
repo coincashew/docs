@@ -25,6 +25,7 @@
 | [Blockchair.com](https://blockchair.com/ethereum) |
 | [Ethplorer.io](https://ethplorer.io/) |
 | [Etherchain.org](https://etherchain.org/) |
+| [beaconcha.in](https://beaconcha.in/) |
 
 ## 📊 Charts and Pricing
 

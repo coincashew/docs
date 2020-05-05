@@ -241,7 +241,7 @@ journalctl --unit=tezos-endorser.service --since='2019-01-01 00:00:00' --until='
 If you edit any of the above .service files, you to notify systemd of your new changes by reloading the new configuration by running the following:
 
 ```text
-systemctl --user daemon-reload
+systemctl daemon-reload
 ```
 
 If you modify the `[Install]` section, you must reenable the service.

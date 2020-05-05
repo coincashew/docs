@@ -46,5 +46,7 @@ description: >-
 
 {% embed url="https://www.trufflesuite.com/docs/tezos/truffle/quickstart" %}
 
+{% embed url="https://medium.com/@claudebarde/a-beginners-guide-to-tezos-tzip-7-proposal-90a8b816af7e" %}
+
 \*\*\*\*
 
