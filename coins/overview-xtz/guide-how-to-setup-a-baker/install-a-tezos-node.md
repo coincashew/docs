@@ -28,7 +28,7 @@ sudo cp opam-2.0.3-x86_64-linux /usr/local/bin/opam
 sudo chmod a+x /usr/local/bin/opam
 git clone https://gitlab.com/tezos/tezos.git
 cd tezos
-git checkout mainnet # or carthagenet or zeronet
+git checkout latest-release
 opam init --bare
 ```
 

@@ -4,7 +4,7 @@
 
 | Site | Title |
 | :--- | :--- |
-| Website | [https://www.binance.com/](https://www.binance.com/) |
+| Website | [https://www.binance.com/](https://www.binance.com/en/register?ref=RI4R7YI6) |
 | Source Code | [https://github.com/binance-chain/](https://github.com/binance-chain/) |
 | Whitepaper | [https://www.binance.com/resources/ico/Binance\_WhitePaper\_en.pdf](https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf) |
 

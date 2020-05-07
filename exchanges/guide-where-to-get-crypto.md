@@ -14,7 +14,7 @@ This guide is for you.
 
 | Site | Location | KYC Required? |
 | :--- | :--- | :--- |
-| [Binance](https://www.binance.com/en/trade/XTZ_USDT?ref=) | Global | No. 2₿/day. |
+| [Binance](https://www.binance.com/en/register?ref=RI4R7YI6) | Global | No. 2₿/day. |
 | [CoinEx](%20https://www.coinex.com/exchange?currency=bch&dest=xtz#limit) | Hong Kong | No. 10,000USD/day. |
 | [Kucoin](%20https://www.kucoin.com/#/trade/XTZ-USDT?rcode=) | Seychelles | No. 2₿/day. |
 | [Huobi](https://www.hbg.com/en-us/exchange/?s=xtz_btc&invite_code=) | Singapore | No |

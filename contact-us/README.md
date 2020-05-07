@@ -6,6 +6,8 @@ Every guide, tip, and review written on CoinCashew was written by someone who wa
 
 ## 🚀 Social Links
 
+\*\*\*\*👽 **Reddit**: r/coincashew
+
 \*\*\*\*🐦 **Twitter:** @coincashew\_
 
 \*\*\*\*📧 **Email:** coincashew@protonmail.com

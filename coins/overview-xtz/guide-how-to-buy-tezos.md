@@ -12,7 +12,7 @@ description: So you would like to acquire some tez.
 
 | Site | Pairs | Location | KYC Required? |
 | :--- | :--- | :--- | :--- |
-| [Binance](https://www.binance.com/en/trade/XTZ_USDT?ref=) | BTC-BNB-BUSD-USDT | Global | No. 2₿/day. |
+| [Binance](https://www.binance.com/en/register?ref=RI4R7YI6) | BTC-BNB-BUSD-USDT | Global | No. 2₿/day. |
 | [CoinEx](%20https://www.coinex.com/exchange?currency=bch&dest=xtz#limit) | BCH-BTC-USDT | Hong Kong | No. 10,000USD/day. |
 | [Kucoin](%20https://www.kucoin.com/#/trade/XTZ-USDT?rcode=) | BTC-USDT | Seychelles | No. 2₿/day. |
 | [Huobi](https://www.hbg.com/en-us/exchange/?s=xtz_btc&invite_code=) | BTC-ETH-USDT | Singapore | No. 9500 tez/day. |
