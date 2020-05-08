@@ -107,7 +107,7 @@
     * [5. Start the baker](coins/overview-xtz/guide-how-to-setup-a-baker/start-the-baker.md)
     * [6. Auto-start and monitoring](coins/overview-xtz/guide-how-to-setup-a-baker/monitoring-and-autostart.md)
     * [7. Updating a node](coins/overview-xtz/guide-how-to-setup-a-baker/updating-a-node.md)
-    * [8. Distribute Rewards](coins/overview-xtz/guide-how-to-setup-a-baker/9.-distribute-rewards.md)
+    * [8. Distribute Rewards](coins/overview-xtz/guide-how-to-setup-a-baker/distribute-rewards.md)
     * [9. Tips, Tricks and Other Commands](coins/overview-xtz/guide-how-to-setup-a-baker/tips-and-tricks.md)
   * [Guide: How to buy Tezos](coins/overview-xtz/guide-how-to-buy-tezos.md)
   * [External Reading Material](coins/overview-xtz/external-reading-material.md)
