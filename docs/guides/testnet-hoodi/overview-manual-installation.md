@@ -7,7 +7,7 @@ sidebar_position: 1
 ## :new: Announcements
 
 :::success
-As of March 17 2024, this **Version 2 Guide** written for **🦉Dencun**🦉 **Hoodi Testnet** :grin:
+As of May 21 2025, this **Version 2 Guide** written for **Pectra**🦒 **Hoodi Testnet** :grin:
 :::
 
 :::info
