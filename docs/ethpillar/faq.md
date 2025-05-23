@@ -91,6 +91,21 @@ git pull
 
 <details>
 
+<summary>How do I uninstall EthPillar?</summary>
+
+Go to **EthPillar** > **System Administration > Uninstall node**
+
+From a terminal, clean up the remaining files
+
+```bash
+rm -rf ~/git/ethpillar
+sudo rm /usr/local/bin/ethpillar
+```
+
+</details>
+
+<details>
+
 <summary>Migrate or Upgrade Staking Setup: How to switch to EthPillar from a V1 Staking setup or other staking tool</summary>
 
 To migrate from a different staking setup, find your most applicable situation:
@@ -293,3 +308,12 @@ Yes, you can configure remote access to Grafana dashboards, but we recommend usi
 Example command: `ssh <VPS OR NODE IP> -L 3000:localhost:3000`
 
 </details>
+
+<details>
+
+<summary>How do I exit and manage the Logs dashboard?</summary>
+
+To exit, press Ctrl+B (at the same time), then D. This is a tmux command. For different layouts, press Ctrl+B, then \<space bar\> 😄
+
+</details>
+
