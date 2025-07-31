@@ -165,10 +165,8 @@ ExecStart=/usr/local/bin/nethermind/nethermind \
   --Pruning.FullPruningThresholdMb=375810 \
   --Pruning.FullPruningMemoryBudgetMb=16384 \
   --Pruning.FullPruningMaxDegreeOfParallelism=2 \
-  --Pruning.FullPruningCompletionBehavior=AlwaysShutdown \
-  --Sync.AncientBodiesBarrier=15537394 \
-  --Sync.AncientReceiptsBarrier=15537394
-   
+  --Pruning.FullPruningCompletionBehavior=AlwaysShutdown
+
 [Install]
 WantedBy=multi-user.target
 ```
