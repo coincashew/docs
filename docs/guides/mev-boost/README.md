@@ -154,7 +154,7 @@ Paste the following into your `mevboost.service` file. To exit and save from the
 Description=MEV-Boost Service for Ethereum Mainnet
 Wants=network-online.target
 After=network-online.target
-Documentation=https://www.coincashew.com
+Documentation=https://docs.coincashew.com
 
 [Service]
 User=mevboost
@@ -183,7 +183,7 @@ WantedBy=multi-user.target
 Description=MEV-Boost Service for HOODI testnet
 Wants=network-online.target
 After=network-online.target
-Documentation=https://www.coincashew.com
+Documentation=https://docs.coincashew.com
 
 [Service]
 User=mevboost

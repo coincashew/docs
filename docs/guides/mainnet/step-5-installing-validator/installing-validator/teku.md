@@ -80,7 +80,7 @@ Paste the following configuration into the file.&#x20;
 Description=Teku Validator Client service for Mainnet
 Wants=network-online.target
 After=network-online.target
-Documentation=https://www.coincashew.com
+Documentation=https://docs.coincashew.com
 
 [Service]
 Type=simple

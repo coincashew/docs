@@ -132,7 +132,7 @@ Paste the following configuration into the file.
 Description=Nimbus Consensus Layer Client service for Hoodi
 Wants=network-online.target
 After=network-online.target
-Documentation=https://www.coincashew.com
+Documentation=https://docs.coincashew.com
 
 [Service]
 Type=simple
@@ -175,7 +175,7 @@ This configuration combines the beacon chain and validator into one running serv
 Description=Nimbus Consensus Layer Client service for Hoodi
 Wants=network-online.target
 After=network-online.target
-Documentation=https://www.coincashew.com
+Documentation=https://docs.coincashew.com
 
 [Service]
 Type=simple

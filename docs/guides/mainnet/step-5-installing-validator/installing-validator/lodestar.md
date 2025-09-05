@@ -56,7 +56,7 @@ Paste the following configuration into the file.
 Description=Lodestar Validator Client service for Mainnet
 Wants=network-online.target
 After=network-online.target
-Documentation=https://www.coincashew.com
+Documentation=https://docs.coincashew.com
 
 [Service]
 Type=simple
