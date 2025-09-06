@@ -7,7 +7,7 @@ Create a service user for the validator service, as this improves security, then
 
 ```bash
 sudo adduser --system --no-create-home --group validator
-sudo mkdir -p /var/lib/lodestar/validators
+sudo mkdir -p /var/lib/lodestar_validator
 ```
 
 Import your validator keys by importing your **keystore file**. Be sure to enter your **keystore password** correctly.
@@ -16,7 +16,7 @@ Import your validator keys by importing your **keystore file**. Be sure to enter
 cd /usr/local/bin/lodestar
 sudo ./lodestar validator import \
   --network hoodi \
-  --dataDir="/var/lib/lodestar/validators" \
+  --dataDir="/var/lib/lodestar_validator" \
   --keystore=$HOME/ethstaker_deposit-cli/validator_keys
 ```
 
@@ -29,7 +29,7 @@ Verify that your keystore file was imported successfully.
 ```bash
 sudo ./lodestar validator list \
   --network hoodi \
-  --dataDir="/var/lib/lodestar/validators"
+  --dataDir="/var/lib/lodestar_validator"
 ```
 
 Once successful, you will be shown your **validator's public key**.
@@ -39,8 +39,8 @@ For example, `0x8d9138fcf5676e2031dc4eae30a2c92e3306903eeec83ca83f4f851afbd4cb3b
 Setup ownership permissions, including hardening the access to this directory.
 
 ```bash
-sudo chown -R validator:validator /var/lib/lodestar/validators
-sudo chmod 700 /var/lib/lodestar/validators
+sudo chown -R validator:validator /var/lib/lodestar_validator
+sudo chmod 700 /var/lib/lodestar_validator
 ```
 
 Create a **systemd unit file** to define your `validator.service` configuration.
@@ -69,7 +69,7 @@ TimeoutStopSec=300
 WorkingDirectory=/usr/local/bin/lodestar
 ExecStart=/usr/local/bin/lodestar/lodestar validator \
   --network hoodi \
-  --dataDir /var/lib/lodestar/validators \
+  --dataDir /var/lib/lodestar_validator \
   --beaconNodes http://127.0.0.1:5052 \
   --metrics true \
   --metrics.port 8009 \

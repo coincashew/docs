@@ -7,7 +7,7 @@ Create a service user for the validator service and create data directories.
 
 ```bash
 sudo adduser --system --no-create-home --group validator
-sudo mkdir -p /var/lib/lighthouse/validators
+sudo mkdir -p /var/lib/lighthouse_validator
 ```
 
 Import your validator keys by importing your **keystore file**. Be sure to enter your **keystore password** correctly.
@@ -15,7 +15,7 @@ Import your validator keys by importing your **keystore file**. Be sure to enter
 ```bash
 sudo lighthouse account validator import \
   --network hoodi \
-  --datadir /var/lib/lighthouse \
+  --datadir /var/lib/lighthouse_validator \
   --directory=$HOME/ethstaker_deposit-cli/validator_keys \
   --reuse-password
 ```
@@ -29,7 +29,7 @@ Verify that your keystore file was imported successfully.
 ```bash
 sudo lighthouse account_manager validator list \
   --network hoodi \
-  --datadir /var/lib/lighthouse
+  --datadir /var/lib/lighthouse_validator
 ```
 
 Once successful, you will be shown your **validator's public key**.
@@ -39,8 +39,8 @@ For example, `0x8d9138fcf5676e2031dc4eae30a2c92e3306903eeec83ca83f4f851afbd4cb3b
 Setup ownership permissions, including hardening the access to this directory.
 
 ```bash
-sudo chown -R validator:validator /var/lib/lighthouse/validators
-sudo chmod 700 /var/lib/lighthouse/validators
+sudo chown -R validator:validator /var/lib/lighthouse_validator
+sudo chmod 700 /var/lib/lighthouse_validator
 ```
 
 Create a **systemd unit file** to define your `validator.service` configuration.
@@ -69,7 +69,7 @@ TimeoutStopSec=900
 ExecStart=/usr/local/bin/lighthouse vc \
   --network hoodi \
   --beacon-nodes http://localhost:5052 \
-  --datadir /var/lib/lighthouse \
+  --datadir /var/lib/lighthouse_validator \
   --graffiti="🏠🥩🪙🛡️" \
   --metrics \
   --metrics-port 8009 \

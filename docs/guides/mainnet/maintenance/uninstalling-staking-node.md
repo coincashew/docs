@@ -72,9 +72,11 @@ sudo systemctl disable validator
 sudo rm /etc/systemd/system/validator.service
 
 #Lighthouse
+sudo rm -rf /var/lib/lighthouse_validator
 sudo rm -rf /var/lib/lighthouse/validators
 
 #Lodestar
+sudo rm -rf /var/lib/lodestar_validator
 sudo rm -rf /var/lib/lodestar/validators
 
 #Teku, if running Standalone Teku Validator
