@@ -154,7 +154,6 @@ KillSignal=SIGINT
 TimeoutStopSec=900
 Environment=RUST_LOG=info
 ExecStart=/usr/local/bin/reth node \
-    --full \
     --chain hoodi \
     --datadir=/var/lib/reth \
     --metrics 127.0.0.1:6060 \

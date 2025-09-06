@@ -144,6 +144,7 @@ ExecStart=/usr/local/bin/geth \
     --datadir=/var/lib/geth \
     --pprof \
     --state.scheme=path \
+    --history.chain postmerge \
     --authrpc.jwtsecret=/secrets/jwtsecret
    
 [Install]
