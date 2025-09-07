@@ -18,16 +18,16 @@ import TabItem from '@theme/TabItem';
 
 ## Welcome to EthPillar
 
-EthPillar is a fully open-source tool that simplifies running and managing Ethereum nodes and validators through a text-based user interface (TUI).
+EthPillar is a fully open-source tool that simplifies running and managing Ethereum nodes and validators via a text-based user interface (TUI).
 
-This guide introduces EthPillar's capabilities and features, and how to start running your own node.
+This guide outlines EthPillar's features and how to start running your own node.
 
 <img src="/img/preview02.png" alt=""/>
 EthPillar's TUI - Navigate the menu to control your node
 
 ### What you can do with EthPillar
 
-EthPillar is designed to empower the solo home staker or node runner with a seamless install and node management textual user interface (TUI). No complicated terminal commands to remember any more making running your own full node or validator node super accessible, super fast and super easy.
+EthPillar empowers solo home stakers and node runners with a seamless installation and node management textual user interface (TUI). No complex terminal commands are needed, making running your own full node or validator node highly accessible, fast, and easy.
 
 Here's a list of common node configurations and common uses.
 
@@ -41,31 +41,31 @@ Here's a list of common node configurations and common uses.
 | Lido CSM Validator Only  | Run a CSM validator client separately, connect to existing Failover/Solo staking/RocketPool node      | validator |
 
 ### Why run a node with EthPillar
-:smile: **Friendly Node Installer**: Helps you deploy a systemd installation with minority clients Nimbus-Nethermind or Teku-Besu stack in just minutes. MEVboost included.
+:smile: **Friendly Node Installer**: Helps you deploy a systemd installation with minority clients, including Nimbus-Nethermind, Lodestar-Besu, Teku-Besu, and Lighthouse-Reth. Deploy your node in minutes. MEVboost included.
 
-:floppy_disk: **Ease of use**: No more remembering CLI commands required. Access common node operations via a simple text user interface (TUI).
+:floppy_disk: **Ease of use**: No need to memorize CLI commands. Access common Node operations through a simple text user interface (TUI).
 
-:owl: **Fast Updates**: Quickly find and download the latest consensus/execution release. Less downtime!
+:owl: **Fast Updates**: Quickly find and download the latest consensus/execution release. Minimize downtime!
 
-:tada:**Compatibility**: Behind the scenes, node commands and file structure are identical to V2 staking setups.
+:tada:**Compatibility**: Node commands and file structure are identical to V2 staking setups.
 
 :::warning
 - **Already a running a Validator?** EthPillar is compatible with a Coincashew V2 Staking Setup
 
-- **Already running a different node setup?** Wipe and re-install with EthPillar. It's super fast.
+- **Already running a different node setup?** Wipe and reinstall with EthPillar. It's very fast.
 :::
 
 ### :fire: Features
 
-:chains: **Hoodi and Ephemery Testnet Support**: Quickest and easiest way run a node now, risk free. Learn and practice here before moving to mainnet.
+:chains: **Hoodi and Ephemery Testnet Support**: Quickest, easiest way to run a node risk-free. Learn and practice here before moving to mainnet.
 
-:droplet: **Lido CSM Integration**: Deploys in minutes and start staking via [Lido's CSM with as little as 2.4 ETH](https://csm.testnet.fi/?ref=ethpillar).
+:droplet: **Lido CSM Integration**: Deploy in minutes and start staking via [Lido's CSM with as little as 2.4 ETH](https://csm.testnet.fi/?ref=ethpillar).
 
 ⚒️ **Plugins and Tools**: Node-checker, eth-validator-cli, Dora the lightweight block explorer, contributoor, Ethdo, client-stats, csm-sentinel and eth-duties Integration helps stakers with every day common tasks.
 
 :bacon: **Grafana and Ethereum-Metrics-Exporter Integration:** Monitoring and dashboards has never been easier.
 
-🔎 **Built-in Troubleshooting:** Find common issues preventing your node from it's peak performance. Discover EthPillar's built-in Node Checker which checks for common system issues.
+🔎 **Built-in Troubleshooting:** Identify common issues hindering your node's peak performance. Explore EthPillar's Node Checker, which detects common system problems.
 
 :tada: **Multiple deployment configurations:** Deploy a Solo Staking Node, Full Node Only, Lido CSM Staking Node, Validator Client Only or Failover Staking Node.
 
@@ -99,12 +99,12 @@ Open source source code available here: [https://github.com/coincashew/EthPillar
 
 ### :heart: Donations
 
-If you'd like to support this public goods project, find us on the next Gitcoin Grants.
+Support our public goods project at the next Gitcoin Grants.
 
 Our donation address is [0xCF83d0c22dd54475cC0C52721B0ef07d9756E8C0](https://etherscan.io/address/0xCF83d0c22dd54475cC0C52721B0ef07d9756E8C0) or coincashew.eth
 
 ### :tada: Credits
 
-Shout out to [accidental-green](https://github.com/accidental-green/validator-install) for their pioneering work in Python validator tools, which has unintentionally ignited the inspiration and direction for this project. We are building upon their innovative foundations by forking their validator-install code. A heartfelt thanks to accidental-green for their game-changing contributions to the open-source Ethereum ecosystem!
+Kudos to [accidental-green](https://github.com/accidental-green/validator-install) for their Python validator tools, inspiring this project. We're building on their validator-install code. Thanks for their contributions to the open-source Ethereum ecosystem!
 
 #### Ready to install? Use the quickstart.
