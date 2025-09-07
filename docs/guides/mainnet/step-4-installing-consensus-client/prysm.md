@@ -149,7 +149,8 @@ ExecStart=/usr/local/bin/beacon-chain \
   --execution-endpoint=http://localhost:8551 \
   --jwt-secret=/secrets/jwtsecret \
   --accept-terms-of-use=true \
-  --suggested-fee-recipient=&#x3C;0x_CHANGE_THIS_TO_MY_ETH_FEE_RECIPIENT_ADDRESS>
+  --beacon-db-pruning \
+  --suggested-fee-recipient=<0x_CHANGE_THIS_TO_MY_ETH_FEE_RECIPIENT_ADDRESS>
 
 [Install]
 WantedBy=multi-user.target
