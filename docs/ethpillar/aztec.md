@@ -70,15 +70,11 @@ If **LOCAL**, ethpillar will install a **Nimbus+Nethermind** full node.
 
 ## ⏭️ Next Steps:
 
-1. **Backup aztec validator key created by cast:**
+1. **Review .env configuration**: Update values (i.e. your ETH addresses/keys) if desired
 
-```sh
-sudo cat /opt/ethpillar/aztec/aztec_seed_phrase
-```
+2. **Start aztec-sequencer**: Ensure Sepolia Full Node is fully synced first! This can take at least a few hours. Run the Health Checks.
 
-2. **Review .env configuration**: Update values (i.e. your ETH addresses/keys) if desired
-
-3. **Start aztec-sequencer**: Ensure Sepolia Full Node is fully synced first! This can take at least a few hours. Run the Health Checks.
+3. **Backup aztec validator key**: Use the 🔐 menu option
 
 <img src="/img/az-start.png" alt="Aztec Start"/>
 
