@@ -329,7 +329,7 @@ To transfer validator key files to your node from your local computer, consider 
 Transfer the **keystore-m_xxxxxxxx.json** files to the following location on your node.
 
 ```bash
-$HOME/ethstaker-deposit-cli/validator_keys
+$HOME/ethstaker_deposit-cli/validator_keys
 ```
 
 </details>
@@ -374,9 +374,9 @@ Copy the keys. Adjust the path names if needed.
 
 ```bash
 # Create a directory on the usb drive to copy the keys into
-sudo mkdir -p /media/usb-drive/ethstaker-deposit-cli/validator_keys
+sudo mkdir -p /media/usb-drive/ethstaker_deposit-cli/validator_keys
 # Copy the keys to the usb drive
-sudo cp $HOME/ethstaker-deposit-cli/validator_keys/*.json /media/usb-drive/ethstaker-deposit-cli/validator_keys
+sudo cp $HOME/ethstaker_deposit-cli/validator_keys/*.json /media/usb-drive/ethstaker_deposit-cli/validator_keys
 # Cleanup
 sudo umount /media/usb-drive
 ```
@@ -417,9 +417,9 @@ Copy the keys. Adjust the path names if needed.
 
 ```bash
 # Create a directory copy the keys into
-sudo mkdir -p $HOME/ethstaker-deposit-cli/validator_keys
+sudo mkdir -p $HOME/ethstaker_deposit-cli/validator_keys
 # Copy the keys to the default path
-sudo cp /media/usb-drive/ethstaker-deposit-cli/validator_keys/*.json $HOME/ethstaker-deposit-cli/validator_keys
+sudo cp /media/usb-drive/ethstaker_deposit-cli/validator_keys/*.json $HOME/ethstaker_deposit-cli/validator_keys
 # Cleanup
 sudo umount /media/usb-drive
 ```
