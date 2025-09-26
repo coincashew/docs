@@ -66,7 +66,7 @@ To build and preview documentation locally:
 
 ## License
 
-All documentation in this repository is released under the MIT License unless otherwise specified.
+All documentation in this repository is released under the GPL-3.0 license unless otherwise specified.
 
 ---
 
