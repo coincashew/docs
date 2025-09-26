@@ -1,41 +1,73 @@
-# Coincashew.com Documentation Repository
+# docs.coincashew.com | EthPillar Documentation
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Welcome to the **coincashew/docs** repository! This repository serves as the central hub for documentation related to CoinCashew's [EthPillar](https://docs.coincashew.com/ethpillar) projects, including guides, tutorials, technical references, and operational manuals.
 
-### Installation
+## Overview
 
-```
-$ yarn
-```
+This repository collects and organizes documentation to help users, developers, and node operators succeed with CoinCashew projects and Ethereum-related infrastructure. The documentation is regularly updated to reflect new developments, best practices, and community feedback.
 
-### Local Development
+## Contents
 
-```
-$ yarn start
-```
+- **Setup Guides**: Step-by-step instructions for getting started with staking, validator setup, and node operations.
+- **Technical References**: Detailed explanations of protocols, software, network parameters, and architecture.
+- **Tutorials**: Hands-on walkthroughs for common tasks and troubleshooting.
+- **Operational Manuals**: Procedures for maintenance, monitoring, and upgrades.
+- **FAQs**: Answers to frequently asked questions.
+- **Contribution Guidelines**: Information for contributing to documentation, reporting issues, and suggesting improvements.
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+## How to Use
 
-### Build
+Browse the repository’s folders and files for the documentation you need. Each guide or reference is organized by topic and clearly titled.
 
-```
-$ yarn build
-```
+If you have questions or suggestions, please open an issue or submit a pull request.
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+## Contributing
 
-### Deployment
+We welcome contributions from the community! Please see `CONTRIBUTING.md` for full instructions.
 
-Using SSH:
+To contribute documentation or make edits:
 
-```
-$ USE_SSH=true yarn deploy
-```
+1. **Fork the repository** and clone it to your local machine.
+2. **Create a new branch** for your proposed changes.
+3. **Edit or add documentation files** as needed.
 
-Not using SSH:
+### Building the Documentation Locally with Docusaurus
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
+This repository uses [Docusaurus](https://docusaurus.io/), a modern static website generator, to build and serve documentation.
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+To build and preview documentation locally:
+
+1. **Install dependencies** (requires Node.js and npm):
+    ```bash
+    npm install
+    ```
+
+2. **Start the local development server**:
+    ```bash
+    npm run start
+    ```
+    The documentation site will be available at `http://localhost:3000`.
+
+3. **Build the static site for production**:
+    ```bash
+    npm run build
+    ```
+
+4. **Preview the production build** (optional):
+    ```bash
+    npm run serve
+    ```
+
+### Submitting Changes
+
+- Commit your changes and push your branch to your fork.
+- Open a pull request with a clear summary of your changes.
+- Please follow the repository's style guidelines and include helpful comments or examples.
+
+## License
+
+All documentation in this repository is released under the MIT License unless otherwise specified.
+
+---
+
+For more information about CoinCashew, visit [docs.coincashew.com](https://docs.coincashew.com).
