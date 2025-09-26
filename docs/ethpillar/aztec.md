@@ -53,7 +53,7 @@ Welcome to the **Aztec Sequencer Node Plugin**, a seamless integration for [EthP
    - **Remote RPC**: 100GB NVMe SDD for Aztec Node
    - **Local RPC**: 850GB+ for Full Node Setup (execution L1 RPC + consensus beacon RPC + aztec L2)
 - **Hardware**: 2 core / 4 vCPU, 16GB RAM, 25 Mbps network connection
-- **Validator Funding**: At least 0.01 SepoliaETH for testnet validator registration
+- **Validator Funding**: At least 0.0001 SepoliaETH for testnet validator registration
 
 ## 📦 Quick Start
 
