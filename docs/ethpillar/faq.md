@@ -134,6 +134,27 @@ To migrate from a different staking setup, find your most applicable situation:
 
 <details>
 
+<summary>Multiple Nodes: Configuring for Redundancy and Fault Tolerance</summary>
+
+**Option 1 - Dual CL/EL nodes: Requires at least 2 machines/VMs/VPS**
+
+The best practice is to run Ethpillar with one full solo staking node (consensus/execution/validator/mevboost) on one node.
+
+On the second node, run Ethpillar with a different client combo (i.e., Lodestar/Besu) in fallback staking node mode (consensus/execution/mevboost).
+
+Then, on your first node, additionally point your validator client to the fallback staking node's consensus port 5052.
+
+This setup ensures redundancy and enhances the reliability of your staking operations by having a backup node ready to take over in case of any issues with the primary node. The different client combinations help mitigate the risk of both nodes failing due to the same issue, providing a more robust staking environment. 
+
+**Option 2 - Dual CL/EL nodes plus VC only client: Requires at least 3 machines/VMs/VPS**
+
+Run 2 fallback staking nodes and 1 standalone validator client. This would require 3 machines/VMs. A common use case is to run the validator client on a single-board computer (SBC) such as a Raspberry Pi.
+
+This configuration provides an additional layer of redundancy, ensuring that your staking operations remain robust even if one of the fallback nodes fails. Using an SBC like a Raspberry Pi for the validator client is a cost-effective and energy-efficient solution, ideal for environments where resource constraints are a consideration
+</details>
+
+<details>
+
 <summary>Can I access my node's RPC remotely?</summary>
 
 Yes, but we recommend using SSH tunneling for security.
@@ -317,3 +338,11 @@ To exit, press Ctrl+B (at the same time), then D. This is a tmux command. For di
 
 </details>
 
+### Lido CSM
+<details>
+
+<summary>Are we allowed to do both solo validator and Lido CSM on the same machine?</summary>
+
+Yes. Install a solo staker configuration node, then use the plugin to add a Lido CSM validator.
+
+</details>
