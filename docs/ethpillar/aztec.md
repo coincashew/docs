@@ -8,9 +8,9 @@ label: Aztec
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# 🥷 Aztec - Run a Node
+# 🪿 Aztec - Run a Node
 
-## 🥷 Aztec Sepolia Sequencer: Privacy first Layer 2 on Ethereum, Built for Home & Solo Stakers
+## 🪿 Aztec Sepolia Sequencer: Privacy first Layer 2 on Ethereum, Built for Home & Solo Stakers
 
 Welcome to the **Aztec Sequencer Node Plugin**, a seamless integration for [EthPillar](https://github.com/coincashew/EthPillar) designed to empower individuals and small operators to run an Aztec Layer 2 node with ease, security, and full control. Whether you're an Ethereum enthusiast, a solo staker, or a privacy advocate—this plugin gives you everything you need to participate in the Aztec network's testnet and beyond.
 
