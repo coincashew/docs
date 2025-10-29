@@ -155,6 +155,7 @@ TimeoutStopSec=900
 Environment=RUST_LOG=info
 ExecStart=/usr/local/bin/reth node \
     --chain hoodi \
+    --full \
     --datadir=/var/lib/reth \
     --metrics 127.0.0.1:6060 \
     --port 30303 \
