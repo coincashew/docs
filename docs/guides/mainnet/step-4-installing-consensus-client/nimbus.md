@@ -225,7 +225,7 @@ Checkpoint sync allows you to start your consensus layer within minutes instead 
 ```bash
 sudo -u consensus /usr/local/bin/nimbus_beacon_node trustedNodeSync \
 --network=mainnet \
---trusted-node-url=https://mainnet.beaconstate.ethstaker.cc \
+--trusted-node-url=https://beaconstate.ethstaker.cc \
 --data-dir=/var/lib/nimbus \
 --backfill=false
 ```
