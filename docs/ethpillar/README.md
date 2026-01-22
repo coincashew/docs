@@ -59,7 +59,7 @@ Here's a list of common node configurations and common uses.
 
 :chains: **Hoodi and Ephemery Testnet Support**: Quickest, easiest way to run a node risk-free. Learn and practice here before moving to mainnet.
 
-:droplet: **Lido CSM Integration**: Deploy in minutes and start staking via [Lido's CSM with as little as 2.4 ETH](https://csm.testnet.fi/?ref=ethpillar).
+:droplet: **Lido CSM Integration**: Deploy in minutes and start staking via [Lido's CSM](https://lido.fi/csm) with as little as 2.4 ETH.
 
 ⚒️ **Plugins and Tools**: Node-checker, eth-validator-cli, Dora the lightweight block explorer, contributoor, Ethdo, client-stats, csm-sentinel and eth-duties Integration helps stakers with every day common tasks.
 
