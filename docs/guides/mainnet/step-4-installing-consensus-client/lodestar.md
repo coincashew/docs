@@ -30,7 +30,7 @@ sudo chown -R consensus:consensus /var/lib/lodestar
 Install dependencies.
 
 ```bash
-sudo apt-get install gcc g++ make git curl ccze -y
+sudo apt-get install gcc g++ make git curl ccze libatomic1 -y
 ```
 
 ### 2. Install Binaries

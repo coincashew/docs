@@ -140,6 +140,12 @@ sudo systemctl start consensus validator
 
 <summary>Option 1 - Download binaries</summary>
 
+Install `libatomic1`, which the Lodestar 2.0 binary needs to run.
+
+```bash
+sudo apt-get install libatomic1 -y
+```
+
 Run the following to automatically download the latest linux release, un-tar and cleanup.
 
 ```bash
